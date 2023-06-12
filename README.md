@@ -12,8 +12,6 @@
 </h2>
 </h1>
 <br>
-
----
 <br>
 
 - [Introduction](#introduction)
@@ -41,10 +39,7 @@
     - [Suitability of Selected Technologies](#Suitability-of-Selected-Technologies)
 - [Conclusion](#conclusion)
 
-<br>
-
----
-
+<hr>
 <br>
 
 ## Introduction
