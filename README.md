@@ -3,7 +3,7 @@
 </h1>
 
 <h1 align="center">
-	<b>Processing the Perfect Lineup</b>
+	<b><font color="purple">Processing the Perfect Lineup</font></b>
 
 <h2 align="center">
     <em>Analyzing the IBM Watson and ESPN Partnership</em>
