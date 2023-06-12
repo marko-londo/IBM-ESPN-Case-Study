@@ -3,36 +3,48 @@
 </h1>
 
 <h1 align="center">
-	<b><font color="purple">Processing the Perfect Lineup</font></b>
+	<b>Processing the Perfect Lineup</b>
+
+<br>
 
 <h2 align="center">
     <em>Analyzing the IBM Watson and ESPN Partnership</em>
 </h2>
 </h1>
+<br>
 
-<br><br>
+---
+<br>
 
+- [Introduction](#introduction)
+- [Overview and Origin](#Overview-and-Origin)
+    - [What is IBM Watson?](#What-is-IBM-Watson?)
+    - [Project Incorporation and Founders](#Project-Incorporation-and-Founders)
+    - [Redefining Sports Coverage](#Redefining-Sports-Coverage)
+    - [Project Funding](#Project-Funding)
+- [Activities Driving Business Success](#Activities-Driving-Business-Success)
+    - [A Desire to Improve Sports Analysis](#A-Desire-to-Improve-Sport-Analysis)
+    - [Targeting the American Football Fan](#Targeting-the-American-Football-Fan)
+    - [Powering the NLP system](#Powering-the-NLP-system)
+- [Evaluating the Market Landscape](#Evaluating-the-Market-Landscape)
+    - [NLP in Sports](#NLP-in-Sports)
+    - [Major Trends in Sports Analytics](#Major-Trends-in-Sports-Analytics)
+    - [Other Major Companies in the Sports NLP Domain](#Other-Major-Companies-in-the-Sports-NLP-Domain)
+- [Key Outcomes and Achievements](#Key-Outcomes-and-Achievements)
+    - [Business Impact](#Business-Impact) 
+    - [Core Metrics for Measuring Success](#Core-Metrics-for-Measuring-Success)
+    - [Competitive Analysis](#Competitive-Analysis)
+- [Suggestions for Business Improvement](#Suggestions-for-Business-Improvement)
+    - [Start or Sit Chatbot (SoSBot)](#Start-or-Sit-Chatbot-(SoSBot))
+    - [The Benefits of SoSBot](#The-Benefits-of-SoSBot)
+    - [Technologies Required for SoSBot](#Technologies-Required-for-SoSBot)
+    - [Suitability of Selected Technologies](#Suitability-of-Selected-Technologies)
+- [Conclusion](#conclusion)
 
-- [Introduction](#intro)
-- [Overview and Origin](#overview)
-    - [What is IBM Watson?](#watson)
-    - [Project Incorporation and Founders](#inc)
-    - [Redefining Sports Coverage](#idea)
-    - [Project Funding](#funding)
-- [Activities Driving Business Success](#business)
-    - [A Desire to Improve Sports Analysis](#problem-solution)
-    - [Targeting the American Football Fan](#audience)
-    - [Powering the NLP system](#tech)
-- [Evaluating the Market Landscape](#landscape)
-    - [NLP in Sports](#industry)
-    - [Major Trends in Sports Analytics](#trends)
-    - [Other Major Companies in the Sports NLP Domain](#other)
-- [Key Outcomes and Achievements](#results)
-    - [Business Impact](#impact) 
-    - [Core Metrics for Measuring Success](#success)
-    - [Competitive Analysis](#competitors)
-- [Suggestions for Business Improvement](#suggestions)
-    - [Start or Sit Chatbot](#bot)
-    - [The Benefits of SoSBot](#botbenefits)
-    - [Technologies Required for SoSBot](#techreq)
-    - [Suitability of Selected Technologies](#suitability)
+<br>
+
+---
+
+<br>
+
+## Introduction
