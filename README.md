@@ -42,7 +42,7 @@
 
 ## Introduction
 <br>
-IBM Watson and ESPN's use of NLP is a fascinating case study that showcases the power of natural language processing in the world of sports. This project has garnered the attention of both sports fans and tech enthusiasts alike. By harnessing IBM Watson's advanced NLP capabilities, ESPN has been able to reshape the landscape of sports journalism and analytics through faster reporting times and improved accuracy.
+IBM Watson and ESPN's use of NLP is a fascinating case study that showcases the power of natural language processing in the world of sports. This project has garnered the attention of both sports fans and tech enthusiasts alike. By harnessing IBM Watson's advanced NLP capabilities, ESPN has acquired the tools necessary to reshape the landscape of sports journalism and analytics through faster reporting times and improved accuracy, and has applied these practices to enhance the fantasy football experience.
 
 <br>
 <br>
@@ -50,3 +50,11 @@ IBM Watson and ESPN's use of NLP is a fascinating case study that showcases the 
 <br>
 
 ## Overview and Origin
+<br>
+This section provides an overview of the partnership between IBM Watson and ESPN, focusing on the use of NLP in the context of sports coverage and fantasy football. 
+<br>
+<br>
+<br>
+
+- ### What is IBM Watson?
+IBM watson is a  
