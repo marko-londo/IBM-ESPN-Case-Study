@@ -39,6 +39,10 @@
 <br>
 <hr>
 <br>
+<h1 align="center">
+	<img src="https://github.com/marko-londo/IBM-ESPN-Case-Study/blob/main/Images/1%20-%20nfl%20player%20scoring%20a%20touchdown.png" alt="Data Analysis">
+</h1>
+
 
 ## Introduction
 <br>
