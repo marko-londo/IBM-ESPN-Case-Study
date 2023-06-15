@@ -14,7 +14,7 @@
 - [Introduction](#introduction)
 - [Overview and Origin](#Overview-and-Origin)
     - [What is IBM Watson?](#What-is-IBM-Watson?)
-    - [Project Incorporation](#Project-Incorporation)
+    - [Project Incorporation and Founders](#Project-Incorporation-and-Founders)
     - [Redefining Sports Coverage](#Redefining-Sports-Coverage)
     - [Project Funding](#Project-Funding)
 - [Activities Driving Business Success](#Activities-Driving-Business-Success)
@@ -46,7 +46,7 @@
 
 ## Introduction
 <br>
-IBM Watson and ESPN's use of [natural language processing](https://www.ibm.com/topics/natural-language-processing "What is natural language processing?") is a fascinating case study that showcases the power of artificial intelligence in the world of sports. This project has garnered the attention of both sports fans and tech enthusiasts alike. By harnessing IBM Watson's advanced NLP capabilities, ESPN has acquired the tools necessary to reshape the landscape of sports journalism and analytics through faster reporting times and improved accuracy, and has applied these practices to enhance the fantasy football experience.
+IBM Watson and ESPN's use of NLP is a fascinating case study that showcases the power of natural language processing in the world of sports. This project has garnered the attention of both sports fans and tech enthusiasts alike. By harnessing IBM Watson's advanced NLP capabilities, ESPN has acquired the tools necessary to reshape the landscape of sports journalism and analytics through faster reporting times and improved accuracy, and has applied these practices to enhance the fantasy football experience.
 
 <br>
 <br>
@@ -61,9 +61,4 @@ This section provides an overview of the partnership between IBM Watson and ESPN
 <br>
 
 - ### What is IBM Watson?
-Named after IBM's founder, Thomas J. Watson, IBM Watson is an advanced computer system designed to process natural language questions and provide accurate answers. It combines artificial intelligence, sophisticated analytical software, and data analytics capabilities. The supercomputer can analyze vast repositories of data, utilizing NLP and 80 teraflops of processing power. Watson employs six million logic rules to replicate (or even surpass) human abilities in answering questions
-
-<br>
-
-- ### Project Incorporation
-The IBM Watson - ESPN project was began in 2016. The idea was that by leveraging Watson's NLP capabilities, the fans' sports viewing and . Since it's incorporation, the project has grown significantly, with more
+IBM watson is a  
