@@ -17,8 +17,8 @@
     - [Project Incorporation](#Project-Incorporation)
     - [Redefining Sports Coverage](#Redefining-Sports-Coverage)
 - [Activities Driving Business Success](#Activities-Driving-Business-Success)
-    - [A Desire to Improve Sports Analysis](#A-Desire-to-Improve-Sport-Analysis)
-    - [Targeting the American Football Fan](#Targeting-the-American-Football-Fan)
+    - [Targeting the American Sports Fan](#Targeting-the-American-Sports-Fan)
+    - [One-upping the Competition](#One-upping-the-Competition)
     - [Powering the NLP system](#Powering-the-NLP-system)
 - [Evaluating the Market Landscape](#Evaluating-the-Market-Landscape)
     - [NLP in Sports](#NLP-in-Sports)
@@ -44,23 +44,18 @@
 
 
 ## Introduction 
-<br>IBM Watson and ESPN's use of [natural language processing](https://www.ibm.com/topics/natural-language-processing/ "What is natural language processing?") is a fascinating case study that showcases the power of artificial intelligence in the world of sports. This project has garnered the attention of both sports fans and tech enthusiasts alike. By harnessing IBM Watson's advanced NLP capabilities, ESPN has acquired the tools necessary to reshape the landscape of sports journalism and analytics through faster reporting times and improved accuracy, and has applied these practices to enhance the fantasy football experience.
+<br>IBM Watson and ESPN's use of [natural language processing](https://www.ibm.com/topics/natural-language-processing/ "What is natural language processing?") is a fascinating case study that showcases the power of artificial intelligence in the world of sports. This project has garnered the attention of both sports fans and tech enthusiasts alike. By harnessing IBM Watson's advanced NLP capabilities, ESPN has acquired the tools necessary to reshape the landscape of sports journalism and analytics through faster reporting times and improved accuracy, and has applied these practices to enhance the [fantasy football](https://www.espn.com/fantasy/football/story/_/id/19522393/fantasy-football-how-play-fantasy-football-espn-fantasy-football-101 "Fantasy Football 101") experience.
 <br>
 <br>
 <hr>
 <br>
 
 ## Overview and Origin
-<br>This section provides an overview of the partnership between IBM Watson and ESPN, focusing on the use of NLP in the context of sports coverage and fantasy football. 
-<br>
-<br>
-
+<br>This section provides an overview of the partnership between IBM Watson and ESPN, focusing on the use of NLP in the context of sports coverage and fantasy football.<br><br>
 
 - ### What is IBM Watson?
 
-     Named after IBM's founder, Thomas J. Watson, IBM Watson is an advanced computer system designed to process natural language questions and provide accurate answers. It combines artificial intelligence, sophisticated analytical software, and data analytics capabilities. The supercomputer can analyze vast repositories of data, utilizing NLP and 80 teraflops of processing power. Watson employs six million logic rules to replicate (or even surpass) human abilities in answering questions
-<br>
-<br>
+     Named after IBM's founder, Thomas J. Watson, IBM Watson is an advanced computer system designed to process natural language questions and provide accurate answers. It combines artificial intelligence, sophisticated analytical software, and data analytics capabilities. The supercomputer can analyze vast repositories of data, utilizing NLP and 80 teraflops of processing power. Watson employs six million logic rules to replicate (or even surpass) human abilities in answering questions.<br><br>
 
 - ### Project Incorporation
 
@@ -68,10 +63,21 @@
 
 - ### Redefining Sports Coverage
 
-    The concept for the project came about as a result of ESPN's desire to improve their sports coverage, as traditional methods were often slow and unreliable. The goal was to provide fans with streamlined, up-to-date and accurate player stats and information. NLP was identified as a potential solution to this problem, and together with IBM they began working to develop a system that could analyze and report on sports in real-time.
+    The concept for the project came about as a result of ESPN's desire to improve their sports coverage, as traditional methods were often slow and unreliable. The goal was to provide fans with streamlined, up-to-date player stats and information with accuracy. NLP was identified as a potential solution to this problem, and together with IBM they began working to develop a system that could analyze and report on sports in real-time.
 <br>
 <br>
 <hr>
 <br>
 
 ## Activities Driving Business Success
+<br>This section provides insight on the companies' target market, the factors that set them above the competition, and how they are implementing the technologies to power their product. <br><br>
+
+- ### Targeting the American Sports Fan
+
+    ESPN's intended customers are fantasy football (and general sports) fans who are looking for fast, accurate, and reliable coverage of their favorite players and teams. The market size for this set of customers is significant, as sports fans represent a large and passionate audience. ESPN is currently the number one provider in fantasy sports, serving over 20 million players across multiple platforms. With fantasy sports rising to approximately 50.4 million players in 2022, they account for nearly 40%. <br><br>
+
+- ### One-upping the Competition
+
+    The main thing that sets IBM Watson and ESPN apart from their competitors is their ability to process vast amounts of data in real-time and generate insights based on that data. This allows them to provide fans with more up-to-date and accurate information than other sports media outlets or fantasy football providers. As of 2021 they added a new feature to their fantasy app; a trade analyzer with Watson. This tool uses AI to analyze vast quantities of football data in order to help fantasy league managers evaluate the fairness of a trade proposal by assigning a value to the players offered and/or pointing out the areas in which the counterparty's team are weak, ultimately assisting the manager in making (or offering) an educated trade.<br><br>
+
+- ### Powering the NLP System
