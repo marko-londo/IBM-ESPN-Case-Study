@@ -16,7 +16,6 @@
     - [What is IBM Watson?](#What-is-IBM-Watson?)
     - [Project Incorporation](#Project-Incorporation)
     - [Redefining Sports Coverage](#Redefining-Sports-Coverage)
-    - [Project Funding](#Project-Funding)
 - [Activities Driving Business Success](#Activities-Driving-Business-Success)
     - [A Desire to Improve Sports Analysis](#A-Desire-to-Improve-Sport-Analysis)
     - [Targeting the American Football Fan](#Targeting-the-American-Football-Fan)
@@ -60,11 +59,19 @@
 - ### What is IBM Watson?
 
      Named after IBM's founder, Thomas J. Watson, IBM Watson is an advanced computer system designed to process natural language questions and provide accurate answers. It combines artificial intelligence, sophisticated analytical software, and data analytics capabilities. The supercomputer can analyze vast repositories of data, utilizing NLP and 80 teraflops of processing power. Watson employs six million logic rules to replicate (or even surpass) human abilities in answering questions
-
+<br>
 <br>
 
 - ### Project Incorporation
 
-    The IBM Watson - ESPN project began in 2016. The idea was that by leveraging Watson's NLP capabilities, the fans' sports viewing and . Since it's incorporation, the project has grown significantly, with more
+    The IBM Watson - ESPN project began in 2016. The idea was to leverage Watson's NLP processing capabilities to enhance the fantasy football experience for fans. Since it's incorporation, the project has grown significantly, with a team of several data scientists, software engineers, and product managers, all dedicated to improving the technology behind the project.<br><br>
 
+- ### Redefining Sports Coverage
 
+    The concept for the project came about as a result of ESPN's desire to improve their sports coverage, as traditional methods were often slow and unreliable. The goal was to provide fans with streamlined, up-to-date and accurate player stats and information. NLP was identified as a potential solution to this problem, and together with IBM they began working to develop a system that could analyze and report on sports in real-time.
+<br>
+<br>
+<hr>
+<br>
+
+## Activities Driving Business Success
