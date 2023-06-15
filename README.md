@@ -83,7 +83,7 @@
 
     The main thing that sets IBM Watson and ESPN apart from their competitors is their ability to process vast amounts of data in real-time and generate insights based on that data. This allows them to provide fans with more up-to-date and accurate information than other sports media outlets or fantasy football providers. As of 2021 they added a new feature to their fantasy app; a trade analyzer with Watson. This tool uses AI to analyze vast quantities of football data in order to help fantasy league managers evaluate the fairness of a trade proposal by assigning a value to the players offered and/or pointing out the areas in which the counterparty's team are weak, ultimately assisting the manager in making (or offering) an educated trade.
     <p align="center">
-  <img src="https://github.com/marko-londo/IBM-ESPN-Case-Study/blob/main/Images/fantasy-football-2.png?raw=true" width="30%"/>
+  <img src="https://github.com/marko-londo/IBM-ESPN-Case-Study/blob/main/Images/Trade_Assistant_combined.jpg"/>
 </p>
     <br><br>
 
