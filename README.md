@@ -85,7 +85,7 @@
     <p align="center">
   <img src="https://github.com/marko-londo/IBM-ESPN-Case-Study/blob/main/Images/Trade_Assistant_combined.jpg"/>
 </p>
-    <br><br>
+    <br>
 
 - ### Powering the NLP System
 
