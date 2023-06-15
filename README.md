@@ -1,5 +1,5 @@
 <h1 align="center">
-	<img src="https://github.com/marko-londo/IBM-ESPN-Case-Study/blob/main/Images/1%20-%20nfl%20player%20scoring%20a%20touchdown.png" alt="AI NFL">
+	<img src="https://github.com/marko-londo/IBM-ESPN-Case-Study/blob/main/Images/1%20-%20nfl%20player%20scoring%20a%20touchdown.png" alt="Processing the Perfect Lineup">
 </h1>
 <h1 align="center">
 	<b>Processing the Perfect Lineup</b>
@@ -39,16 +39,17 @@
 <hr>
 <br>
 <h1 align="center">
-	<img src="https://github.com/marko-londo/IBM-ESPN-Case-Study/blob/main/Images/1%20-%20computer%20analyzing%20big%20data.png" alt="Data Analysis">
+	<img src="https://github.com/marko-londo/IBM-ESPN-Case-Study/blob/main/Images/1%20-%20computer%20analyzing%20big%20data.png" alt="Introduction">
 </h1>
 
 
 ## Introduction 
-<br>IBM Watson and ESPN's use of [natural language processing](https://www.ibm.com/topics/natural-language-processing/ "What is natural language processing?") is a fascinating case study that showcases the power of artificial intelligence in the world of sports. This project has garnered the attention of both sports fans and tech enthusiasts alike. By harnessing IBM Watson's advanced NLP capabilities, ESPN has acquired the tools necessary to reshape the landscape of sports journalism and analytics through faster reporting times and improved accuracy, and has applied these practices to enhance the [fantasy football](https://www.espn.com/fantasy/football/story/_/id/19522393/fantasy-football-how-play-fantasy-football-espn-fantasy-football-101 "Fantasy Football 101") experience.
-<br>
+<br>IBM Watson and ESPN's use of [natural language processing](https://www.ibm.com/topics/natural-language-processing/ "What is natural language processing?") is a fascinating case study that showcases the power of artificial intelligence in the world of sports. This project has garnered the attention of both sports fans and tech enthusiasts alike. By harnessing IBM Watson's advanced NLP capabilities, ESPN has acquired the tools necessary to reshape the landscape of sports journalism and analytics through faster reporting times and improved accuracy, and has applied these practices to enhance the [fantasy football](https://www.espn.com/fantasy/football/story/_/id/19522393/fantasy-football-how-play-fantasy-football-espn-fantasy-football-101 "Fantasy Football 101") experience.<br>
 <br>
 <hr>
 <br>
+<h1 align="center">
+	<img src="https://github.com/marko-londo/IBM-ESPN-Case-Study/blob/main/Images/1%20-%20a%20supercomputer%20analyzing%20data%20on%20a%20football%20f.png" alt="Overview and Origin">
 
 ## Overview and Origin
 <br>This section provides an overview of the partnership between IBM Watson and ESPN, focusing on the use of NLP in the context of sports coverage and fantasy football.<br><br>
@@ -68,6 +69,8 @@
 <br>
 <hr>
 <br>
+<h1 align="center">
+	<img src="https://github.com/marko-londo/IBM-ESPN-Case-Study/blob/main/Images/ai-nfl1.png" alt="Activities Driving Business Success">
 
 ## Activities Driving Business Success
 <br>This section provides insight on the companies' target market, the factors that set them above the competition, and how they are implementing the technologies to power their product. <br><br>
@@ -78,7 +81,11 @@
 
 - ### One-upping the Competition
 
-    The main thing that sets IBM Watson and ESPN apart from their competitors is their ability to process vast amounts of data in real-time and generate insights based on that data. This allows them to provide fans with more up-to-date and accurate information than other sports media outlets or fantasy football providers. As of 2021 they added a new feature to their fantasy app; a trade analyzer with Watson. This tool uses AI to analyze vast quantities of football data in order to help fantasy league managers evaluate the fairness of a trade proposal by assigning a value to the players offered and/or pointing out the areas in which the counterparty's team are weak, ultimately assisting the manager in making (or offering) an educated trade.<br><br>
+    The main thing that sets IBM Watson and ESPN apart from their competitors is their ability to process vast amounts of data in real-time and generate insights based on that data. This allows them to provide fans with more up-to-date and accurate information than other sports media outlets or fantasy football providers. As of 2021 they added a new feature to their fantasy app; a trade analyzer with Watson. This tool uses AI to analyze vast quantities of football data in order to help fantasy league managers evaluate the fairness of a trade proposal by assigning a value to the players offered and/or pointing out the areas in which the counterparty's team are weak, ultimately assisting the manager in making (or offering) an educated trade.
+    <p align="center">
+  <img src="https://github.com/marko-londo/IBM-ESPN-Case-Study/blob/main/Images/fantasy-football-2.png?raw=true" width="30%"/>
+</p>
+    <br><br>
 
 - ### Powering the NLP System
 
