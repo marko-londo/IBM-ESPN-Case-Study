@@ -47,18 +47,24 @@
 
      As defined by IBM:
      >Natural language processing (NLP) refers to the branch of computer science—and more specifically, the branch of artificial intelligence or AI—concerned with giving computers the ability to understand text and spoken words in much the same way human beings can.
+     >
+     >NLP combines computational linguistics—rule-based modeling of human language—with statistical, machine learning, and deep learning models. Together, these technologies enable computers to process human language in the form of text or voice data and to ‘understand’ its full meaning, complete with the speaker or writer’s intent and sentiment.
 
-     NLP's order of operation is typically as follows:
+     The way this works is through a series of analytical processes. NLP's order of operation is typically as follows:
 
      1. In order for a machine to analyze data in the form of text, it is first [preprocessed, or "cleaned"](https://exchange.scale.com/public/blogs/preprocessing-techniques-in-nlp-a-guide "NLP Preprocessing Techniques"). This generally means simplifying it by removing punctuation, common words, or reducing words to their root form.
      1. The computer then analyzes the sentence structure and grammar. This is called syntactic analysis, or "parsing". Parsing aims to identify how words relate to eachother, such as subject-verb-object relationships.  <p align="center">
-  <img src="https://github.com/marko-londo/IBM-ESPN-Case-Study/blob/main/Images/displacy.jpg?raw=true" width=90%/></p>
+  <img src="https://github.com/marko-londo/IBM-ESPN-Case-Study/blob/main/Images/Screenshot%20(1).png" width=90%/></p>
    1. Next is [semantic analysis](https://www.geeksforgeeks.org/understanding-semantic-analysis-nlp/ "Understanding Semantic Analysis "). In this step the machine determines the sentiment and roles of the words, in order to extract meaning and understanding from the text. 
     1. [Pragmatic processing](https://www.scaler.com/topics/pragmatics-in-nlp/ "Pragmatics") is applied to extract the context. Pragmatics focuses on the perceived tone, speaker intent and cultural conventions to fully understand the meaning of a piece of text.
     1. [Machine Learning and Deep Learning](https://www.coursera.org/articles/ai-vs-deep-learning-vs-machine-learning-beginners-guide "Deep Learning vs. Machine Learning") techniques are an essential part of NLP's functionality. Traditional machine learning algorithms and neural networks are used to train models for NLP tasks. These models learn patterns and relationsips in annotated data and us them to make predictions and perform language-related tasks.
     1. Ultimately, the models and algorithms are integrated into various applications and systems for human interaction. This could be anything from predictive text or auto-correct to chatbots and Amazon Alexa.
+    <p align="center">
+  <img src="https://github.com/marko-londo/IBM-ESPN-Case-Study/blob/main/Images/68747470733a2f2f7777772e63796269616e742e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30312f434b432d4e61747572616c2d4c616e67756167652d50726f63657373696e672e706e67.png?raw=true" width=80%/></p>
 
-    NLP is a field that continues to grow and evolve by the day. Researchers and developers continuosly work to improve the accuracy and capabilities of their systems.<br>
+    NLP is a field that continues to grow and evolve by the day. Researchers and developers continuosly work to improve the accuracy and capabilities of their systems.
+<br>
+<br>
 <hr>
 <br>
 <h1 align="center">
