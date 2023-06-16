@@ -50,7 +50,7 @@
 
      NLP's order of operation is typically as follows:
 
-     1. In order for a machine to analyze in the form of text, it is first [preprocessed, or "cleaned"](https://exchange.scale.com/public/blogs/preprocessing-techniques-in-nlp-a-guide "NLP Preprocessing Techniques"). This generally means simplifying it by removing punctuation, common words, or reducing words to their root form.
+     1. In order for a machine to analyze data in the form of text, it is first [preprocessed, or "cleaned"](https://exchange.scale.com/public/blogs/preprocessing-techniques-in-nlp-a-guide "NLP Preprocessing Techniques"). This generally means simplifying it by removing punctuation, common words, or reducing words to their root form.
      1. The computer then analyzes the sentence structure and grammar. This is called syntactic analysis, or "parsing". Parsing aims to identify how words relate to eachother, such as subject-verb-object relationships.  <p align="center">
   <img src="https://github.com/marko-londo/IBM-ESPN-Case-Study/blob/main/Images/displacy.jpg?raw=true" width=90%/></p>
    1. Next is [semantic analysis](https://www.geeksforgeeks.org/understanding-semantic-analysis-nlp/ "Understanding Semantic Analysis "). In this step the machine determines the sentiment and roles of the words, in order to extract meaning and understanding from the text. 
