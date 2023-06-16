@@ -23,7 +23,7 @@
 - [Evaluating the Market Landscape](#Evaluating-the-Market-Landscape)
     - [NLP in Sports](#NLP-in-Sports)
     - [Major Trends in Sports Analytics](#Major-Trends-in-Sports-Analytics)
-    - [Other Major Companies in the Sports NLP Domain](#Other-Major-Companies-in-the-Sports-NLP-Domain)
+    - [Other Major Companies in the Sports Analytics Domain](#Other-Major-Companies-in-the-Sports-Analytics-Domain)
 - [Key Outcomes and Achievements](#Key-Outcomes-and-Achievements)
     - [Business Impact](#Business-Impact) 
     - [Core Metrics for Measuring Success](#Core-Metrics-for-Measuring-Success)
@@ -94,4 +94,37 @@
     >
     >Player Insights are built on containerized apps using Red Hat OpenShift running on the IBM Cloud. A machine learning engine pulls dozens of models from cloud object storage (running in Dallas and Washington, D.C., to ensure continuous availability).
 
-    Watson continuously analyzes millions of player injury reports, opinion pieces and news stories to collect and correlate data on all players and teams in the league.
+    Watson continuously analyzes millions of player injury reports, opinion pieces and news stories to collect and correlate data on all players and teams in the league.<br>
+<br>
+<hr>
+<br>
+<h1 align="center">
+	<img src="https://github.com/marko-londo/IBM-ESPN-Case-Study/blob/main/Images/1%20-%20a%20supercomputer%20analyzing%20data%20on%20a%20football%20f.png" alt="Evaluating the Market Landscape">
+
+## Evaluating the Market Landscape
+<br>In this section we will discuss the broader use of NLP across the sports spectrum; major trends in the market and other major companies with similar ongoing projects and products. <br><br>
+
+- ### NLP in Sports
+
+    NLP has various applications in the sports world, not just for journalists and fans, but for teams, coaches and organizations as well.
+    Some examples of its uses are as follows:
+    - Sentiment Analysis: NLP can be used to analyze social media posts, news articles, and fan discussions to guage public sentiment towards teams, players and sporting events. This information can help teams and sports organizations understand public opinon and make informed decisions.
+    - Player and Team Performance Analysis: NLP can be used to extract data from match reports and sports commentary, to help coaches gain a better understanding of their own performance or their opponents.
+    - Injury Prediction and Prevention: NLP can be used to analyze injury reports and medical records to identify risk factors associated with injuries in order to take preventative action or develop injury recovery plans.
+    - Sports Analytics: NLP can be used to extract data from player biographies and articles to structure advanced analytics, trend analysism and predictive modeling to gain deeper insights into player performance and game outcomes. This is the main use of NLP in sports.<br><br>
+
+- ### Major Trends in Sports Analytics
+
+    Over the last 5-10 years, NLP has seen significant progress in the field of sports analytics. One major trend is the use of machine learning to identify patterns and insights that would be impossible for humans to detect. An example of this would be missed calls by referees. Another trend is the development of more sophisticated NLP tools that can understand the nuances of human language, including language and context-specific terminology. Up to the minute journalism and reporting, down to even the last play or bat swing. Evaluating draft classes. Training and development techniques. Analyzing batting averages and determining what pitches cause a batter to strike out. These studies and collections of data are all executed through the use of NLP.
+    <br><br>
+
+- ### Other Major Companies in the Sports Analytics Domain
+
+    Apart from ESPN, there area several other companies that have made significant contributions to the field of NLP sports analytics:
+    - [Sportlogiq](https://www.sportlogiq.com/ "Sportlogiq's website") - The global leader in hockey analytics, which uses computer vision and machine learning to analyze player and team performance in real time.
+    - [Second Spectrum](https://www.secondspectrum.com/ "Second Spectrum's website") - Official Tracking Provider for the NBA, Premier League, and MLS, using advanced NLP algorithms to generate insights on basketball games, including shot charts, player tracking and defensive analysis.
+    - [Hudl](https://www.hudl.com/ "Hudl's website") - Video analysis for coaches and players. Over than 200K teams across 40 sports use Hudl to capture, analyze and learn from video and data.
+    - [Hookit](https://hookit.com/ "Hookit's website") Hookit tracks athletes sponsorhips and social media mentions to determine sponsorship values and analyze marketing data.
+    <br><br>
+    
+    Overall, the field of sports analytics is rapidly evolving, with new companies and technologies emerging every year.
