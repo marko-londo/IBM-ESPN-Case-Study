@@ -12,7 +12,8 @@
 <br>
 
 - [Introduction](#introduction)
-    - [What is NLP?](What-is-NLP?)
+    - [What is NLP?](#What-is-NLP?)
+    - [Navigating the NLP Landscape](#Navigating-the-NLP-Landscape)
 - [Overview and Origin](#Overview-and-Origin)
     - [What is IBM Watson?](#What-is-IBM-Watson?)
     - [Project Incorporation](#Project-Incorporation)
@@ -26,10 +27,9 @@
     - [Developments in Sports Analytics](#Developments-in-Sports-Analytics)
     - [Other Major Companies in the Sports Analytics Domain](#Other-Major-Companies-in-the-Sports-Analytics-Domain)
 - [Suggestions for Business Improvement](#Suggestions-for-Business-Improvement)
-    - [Start or Sit Chatbot (SoSBot)](#Start-or-Sit-Chatbot-(SoSBot))
-    - [The Benefits of SoSBot](#The-Benefits-of-SoSBot)
-    - [Technologies Required for SoSBot](#Technologies-Required-for-SoSBot)
-    - [Suitability of Selected Technologies](#Suitability-of-Selected-Technologies)
+    - [BlitzBot](#Start-or-Sit-Chatbot-(BlitzBot))
+    - [The Benefits of BlitzBot](#The-Benefits-of-BlitzBot)
+    - [Implementing BlitzBot](#Implementing-BlitzBot)
 - [Conclusion](#conclusion)
   
 <br>
@@ -41,7 +41,7 @@
 
 
 ## Introduction 
-<br>[IBM Watson](https://www.ibm.com/watson "IBM Watson") and [ESPN](https://www.espn.com/ "ESPN")'s use of [natural language processing](https://www.ibm.com/topics/natural-language-processing/ "What is natural language processing?") is a fascinating case study that showcases the power of artificial intelligence in the world of sports. This project has garnered the attention of both sports fans and tech enthusiasts alike. By harnessing IBM Watson's advanced NLP capabilities, ESPN has acquired the tools necessary to reshape the landscape of sports journalism and analytics through faster reporting times and improved accuracy, and has applied these practices to enhance the [fantasy football](https://www.espn.com/fantasy/football/story/_/id/19522393/fantasy-football-how-play-fantasy-football-espn-fantasy-football-101 "Fantasy Football 101") experience.<br><br>
+<br>[IBM Watson](https://www.ibm.com/watson "IBM Watson") and [ESPN](https://www.espn.com/ "ESPN")'s use of [natural language processing](https://www.ibm.com/topics/natural-language-processing/ "What is natural language processing?") is a fascinating case study that showcases the power of artificial intelligence in the world of sports. This project has garnered the attention of both sports fans and tech enthusiasts alike. By harnessing IBM Watson's advanced NLP capabilities, ESPN has acquired the tools necessary to reshape the landscape of sports journalism and analytics through faster reporting times and improved accuracy, and has applied these practices to enhance the [fantasy football](https://www.espn.com/fantasy/football/story/_/id/19522393/fantasy-football-how-play-fantasy-football-espn-fantasy-football-101 "Fantasy Football 101") and general sports media experience.<br><br>
 
 - ### What is NLP?
 
@@ -53,7 +53,7 @@
      The way this works is through a series of analytical processes. NLP's order of operation is typically as follows:
 
      1. In order for a machine to analyze data in the form of text, it is first [preprocessed, or "cleaned"](https://exchange.scale.com/public/blogs/preprocessing-techniques-in-nlp-a-guide "NLP Preprocessing Techniques"). This generally means simplifying it by removing punctuation, common words, or reducing words to their root form.
-     1. The computer then analyzes the sentence structure and grammar. This is called syntactic analysis, or "parsing". Parsing aims to identify how words relate to eachother, such as subject-verb-object relationships.  <p align="center">
+     1. The computer then analyzes the sentence structure and grammar. This is called syntactic analysis, or "parsing". Parsing aims to identify how words relate to eachother, such as subject-verb-object relationships. You can see how this works yourself by trying [Displacy](https://demos.explosion.ai/displacy "Displacy"). <p align="center">
   <img src="https://github.com/marko-londo/IBM-ESPN-Case-Study/blob/main/Images/Screenshot%20(1).png" width=90%/></p>
    1. Next is [semantic analysis](https://www.geeksforgeeks.org/understanding-semantic-analysis-nlp/ "Understanding Semantic Analysis "). In this step the machine determines the sentiment and roles of the words, in order to extract meaning and understanding from the text. 
     1. [Pragmatic processing](https://www.scaler.com/topics/pragmatics-in-nlp/ "Pragmatics") is applied to extract the context. Pragmatics focuses on the perceived tone, speaker intent and cultural conventions to fully understand the meaning of a piece of text.
@@ -62,7 +62,18 @@
     <p align="center">
   <img src="https://github.com/marko-londo/IBM-ESPN-Case-Study/blob/main/Images/68747470733a2f2f7777772e63796269616e742e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30312f434b432d4e61747572616c2d4c616e67756167652d50726f63657373696e672e706e67.png?raw=true" width=80%/></p>
 
-    NLP is a field that continues to grow and evolve by the day. Researchers and developers continuosly work to improve the accuracy and capabilities of their systems.
+    NLP is a field that continues to grow and evolve by the day. Researchers and developers continuosly work to improve the accuracy and capabilities of their systems.<br><br>
+
+- ### Navigating the NLP Landscape
+    The NLP domain gas witnessed significant trends that have shaped it's development. These include:
+    - Pre-trained language models
+    - Transfer Learning
+    - Multilingual NLP
+    - Transformer-Based Architectures
+    - Contextual Word Embeddings
+    - Neural Machine Translation
+    - Voice Assistants and Chatbots
+    - Biomedical NLP
 <br>
 <br>
 <hr>
@@ -135,7 +146,7 @@
 
 - ### Developments in Sports Analytics
 
-    Over the last 5-10 years, NLP has seen significant progress in the field of sports analytics. One major trend is the use of machine learning to identify patterns and insights that would be impossible for humans to detect. An example of this would be missed calls by referees. Another trend is the development of more sophisticated NLP tools that can understand the nuances of human language, including language and context-specific terminology. Up to the minute journalism and reporting, down to even the last play or bat swing. Evaluating draft classes. Training and development techniques. Analyzing batting averages and determining what pitches cause a batter to strike out. These studies and collections of data are all executed through the use of NLP.
+    Over the last 5-10 years, NLP has seen significant progress in the field of sports analytics. One major trend is the use of machine learning to identify patterns and insights that would be impossible for humans to detect. An example of this would be missed calls by referees. Another trend is the development of more sophisticated NLP tools that can understand the nuances of human language, including language and context-specific terminology. Up to the minute journalism and reporting, down to even the last play or bat swing, draft class evaluation, training and development techniques. Analyzing batting averages and determining what pitches cause a batter to strike out. These studies and collections of data are all executed through the use of NLP.
     <br><br>
 
 - ### Other Major Companies in the Sports Analytics Domain
@@ -148,3 +159,32 @@
     <br><br>
 
     Overall, the field of sports analytics is rapidly evolving, with new companies and technologies emerging every year.
+<br>
+<br>
+<hr>
+<br>
+<h1 align="center">
+	<img src="https://github.com/marko-londo/IBM-ESPN-Case-Study/blob/main/Images/computer.png?raw=true" alt="Suggestions for Business Improvement">
+
+## Suggestions for Business Improvement
+<br>
+To enhance the user experience and provide valuable support for fantasy football enthusiasts, I propose the integration of an interactive chatbot within the existing fantasy football app. This chatbot will serve as a virtual assistant, providing real-time guidance, strategy suggestions, and information to help users make informed decisions and stay up-to-date with the latest developments in the game.<br><br>
+
+- ### BlitzBot
+    .<br><br>
+
+- ### The Benefits of BlitzBot
+    .<br><br>
+
+- ### Implementing BlitzBot
+    .
+<br>
+<br>
+<hr>
+<br>
+<h1 align="center">
+	<img src="https://github.com/marko-londo/IBM-ESPN-Case-Study/blob/main/Images/catch.png" alt="Conclusion">
+
+## Conclusion
+<br>
+.
