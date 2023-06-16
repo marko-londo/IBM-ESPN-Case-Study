@@ -12,8 +12,8 @@
 <br>
 
 - [Introduction](#introduction)
+- [What is NLP?](What-is-NLP?)
 - [Overview and Origin](#Overview-and-Origin)
-    - [NLP Defined](#NLP-Defined)
     - [What is IBM Watson?](#What-is-IBM-Watson?)
     - [Project Incorporation](#Project-Incorporation)
     - [Redefining Sports Coverage](#Redefining-Sports-Coverage)
@@ -41,8 +41,24 @@
 
 
 ## Introduction 
-<br>[IBM Watson](https://www.ibm.com/watson "IBM Watson") and [ESPN](https://www.espn.com/ "ESPN")'s use of [natural language processing](https://www.ibm.com/topics/natural-language-processing/ "What is natural language processing?") is a fascinating case study that showcases the power of artificial intelligence in the world of sports. This project has garnered the attention of both sports fans and tech enthusiasts alike. By harnessing IBM Watson's advanced NLP capabilities, ESPN has acquired the tools necessary to reshape the landscape of sports journalism and analytics through faster reporting times and improved accuracy, and has applied these practices to enhance the [fantasy football](https://www.espn.com/fantasy/football/story/_/id/19522393/fantasy-football-how-play-fantasy-football-espn-fantasy-football-101 "Fantasy Football 101") experience.<br>
-<br>
+<br>[IBM Watson](https://www.ibm.com/watson "IBM Watson") and [ESPN](https://www.espn.com/ "ESPN")'s use of [natural language processing](https://www.ibm.com/topics/natural-language-processing/ "What is natural language processing?") is a fascinating case study that showcases the power of artificial intelligence in the world of sports. This project has garnered the attention of both sports fans and tech enthusiasts alike. By harnessing IBM Watson's advanced NLP capabilities, ESPN has acquired the tools necessary to reshape the landscape of sports journalism and analytics through faster reporting times and improved accuracy, and has applied these practices to enhance the [fantasy football](https://www.espn.com/fantasy/football/story/_/id/19522393/fantasy-football-how-play-fantasy-football-espn-fantasy-football-101 "Fantasy Football 101") experience.<br><br>
+
+- ### What is NLP?
+
+     As defined by IBM:
+     >Natural language processing (NLP) refers to the branch of computer science—and more specifically, the branch of artificial intelligence or AI—concerned with giving computers the ability to understand text and spoken words in much the same way human beings can.
+
+     NLP's order of operation is typically as follows:
+
+     1. In order for the computer to analyze the data (video, audio or text), it is first [preprocessed, or "cleaned"](https://exchange.scale.com/public/blogs/preprocessing-techniques-in-nlp-a-guide "NLP Preprocessing Techniques"). This generally means simplifying it by removing punctuation, common words, or reducing words to their root form.
+     1. The computer then analyzes the sentence structure and grammar. This is called syntactic analysis, or "parsing". Parsing aims to identify how words relate to eachother, such as subject-verb-object relationships.  <p align="center">
+  <img src="https://github.com/marko-londo/IBM-ESPN-Case-Study/blob/main/Images/displacy.jpg?raw=true" width=90%/></p>
+   1. Next is [semantic analysis](https://www.geeksforgeeks.org/understanding-semantic-analysis-nlp/ "Understanding Semantic Analysis "). In this step the machine determines the sentiment and roles of the words, in order to extract meaning and understanding from the text. 
+    1. [Pragmatic processing](https://www.scaler.com/topics/pragmatics-in-nlp/ "Pragmatics") is applied to extract the context. Pragmatics focuses on the perceived tone, speaker intent and cultural conventions to fully understand the meaning of a piece of text.
+    1. [Machine Learning and Deep Learning](https://www.coursera.org/articles/ai-vs-deep-learning-vs-machine-learning-beginners-guide "Deep Learning vs. Machine Learning") techniques are an essential part of NLP's functionality. Traditional machine learning algorithms and neural networks are used to train models for NLP tasks. These models learn patterns and relationsips in annotated data and us them to make predictions and perform language-related tasks.
+    1. Ultimately, the models and algorithms are integrated into various applications and systems for human interaction. This could be anything from predictive text or auto-correct to chatbots and Amazon Alexa.
+
+    NLP is a field that continues to grow and evolve by the day. Researchers and developers continuosly work to improve the accuracy and capabilities of their systems.<br>
 <hr>
 <br>
 <h1 align="center">
@@ -50,17 +66,6 @@
 
 ## Overview and Origin
 <br>This section provides an overview of the partnership between IBM Watson and ESPN, focusing on the use of NLP in the context of sports coverage and fantasy football.<br><br>
-
-- ### NLP Defined
-
-     As defined by IBM:
-     >Natural language processing (NLP) refers to the branch of computer science—and more specifically, the branch of artificial intelligence or AI—concerned with giving computers the ability to understand text and spoken words in much the same way human beings can.
-
-     NLP operates in the following manner:
-     1. In order for the computer to analyze the data (video, audio or text), it is first [preprocessed, or "cleaned"](https://exchange.scale.com/public/blogs/preprocessing-techniques-in-nlp-a-guide "NLP Preprocessing Techniques"). This generally means simplifying it by removing punctuation, common words, or reducing words to their root form.
-     1. The computer then analyzes the sentence structure and grammar. This is called syntactic analysis, or "parsing". Parsing aims to identify how words relate to eachother, such as subject-verb-object relationships.  <p align="center">
-  <img src="https://github.com/marko-londo/IBM-ESPN-Case-Study/blob/main/Images/displacy.jpg?raw=true" width=90%/>
-</p><br><br>
 
 - ### What is IBM Watson?
 
