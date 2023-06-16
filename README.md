@@ -99,7 +99,7 @@
 <hr>
 <br>
 <h1 align="center">
-	<img src="https://github.com/marko-londo/IBM-ESPN-Case-Study/blob/main/Images/1%20-%20a%20supercomputer%20analyzing%20data%20on%20a%20football%20f.png" alt="Evaluating the Market Landscape">
+	<img src="https://github.com/marko-londo/IBM-ESPN-Case-Study/blob/main/Images/2%20-%20computer%20analyzing%20big%20data%20(2).png" alt="Evaluating the Market Landscape">
 
 ## Evaluating the Market Landscape
 <br>In this section we will discuss the broader use of NLP across the sports spectrum; major trends in the market and other major companies with similar ongoing projects and products. <br><br>
@@ -126,5 +126,5 @@
     - [Hudl](https://www.hudl.com/ "Hudl's website") - Video analysis for coaches and players. Over than 200K teams across 40 sports use Hudl to capture, analyze and learn from video and data.
     - [Hookit](https://hookit.com/ "Hookit's website") Hookit tracks athletes sponsorhips and social media mentions to determine sponsorship values and analyze marketing data.
     <br><br>
-    
+
     Overall, the field of sports analytics is rapidly evolving, with new companies and technologies emerging every year.
