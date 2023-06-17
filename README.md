@@ -12,10 +12,25 @@
 <br>
 
 - [Introduction](#introduction)
+  - [What is NLP?](#what-is-nlp)
+  - [A Brief History of NLP](#a-brief-history-of-nlp) 
+  - [Navigating the NLP Landscape](#navigating-the-nlp-landscape)
 - [Overview and Origin](#overview-and-origin)
+  - [What is IBM Watson?](#what-is-ibm-watson)
+  - [Project Incorporation](#project-incorporation) 
+  - [Redefining Sports Coverage](#redefining-sports-coverage)
 - [Activities Driving Business Success](#activities-driving-business-success)
+  - [Targeting the American Sports Fan](#targeting-the-american-sports-fan)
+  - [One-upping the Competition](#one-upping-the-competition)
+  - [Powering the NLP System](#powering-the-nlp-system)  
 - [Evaluating the Market Landscape](#evaluating-the-market-landscape)
+    - [NLP in Sports](#nlp-in-sports)
+    - [Developments in Sports Analytics](#developments-in-sports-analytics)
+    - [Other Major Companies in the Sports Analytics Domain](#other-major-companies-in-the-sports-analytics-domain) 
 - [Suggestions for Business Improvement](#suggestions-for-business-improvement)
+  - [Blitzbot](#blitzbot)
+  - [The Benefits of Blitzbot](#the-benefits-of-blitzbot)
+  - [Implementing Blitzbot](#implementing-blitzbot)
 - [Conclusion](#conclusion)
   
 <br>
@@ -50,11 +65,13 @@
 
     NLP is a field that continues to grow and evolve by the day. Researchers and developers continuosly work to improve the accuracy and capabilities of their systems.<br><br>
 
-- ### Navigating the NLP Landscape
+- ### A Brief History of NLP
     While natural language processing (NLP) has experienced significant recent growth and increased mainstream media coverage, it is important to note that NLP is not a new technology. The birth of nlp dates back to [the late 1940's - early 1950's](https://www.deep-talk.ai/post/history-and-present-of-natural-language-processing#:~:text=The%20beginnings%20(1950%E2%80%931970),and%20understanding%20of%20natural%20language. "History and present of Natural Language Processing");
     >NLP [...] was born in the 1950s as a sub-area of Artificial Intelligence and Linguistics, with the aim of studying the problems derived from the automatic generation and understanding of natural language. Although works from earlier periods can be found, it was in 1950 that Alan Turing published an article entitled “Intelligence” that proposed what is now called the Turing test as a criterion of intelligence.<p align="center">
   <img src="https://github.com/marko-londo/IBM-ESPN-Case-Study/blob/main/Images/turing-test.png"/>
-</p>
+</p><br><br>
+
+- ### Navigating the NLP Landscape
     - Pre-trained language models
     - Transfer Learning
     - Multilingual NLP
