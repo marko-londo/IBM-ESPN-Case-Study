@@ -12,24 +12,10 @@
 <br>
 
 - [Introduction](#introduction)
-    - [What is NLP?](#What-is-NLP?)
-    - [Navigating the NLP Landscape](#Navigating-the-NLP-Landscape)
-- [Overview and Origin](#Overview-and-Origin)
-    - [What is IBM Watson?](#What-is-IBM-Watson?)
-    - [Project Incorporation](#Project-Incorporation)
-    - [Redefining Sports Coverage](#Redefining-Sports-Coverage)
-- [Activities Driving Business Success](#Activities-Driving-Business-Success)
-    - [Targeting the American Sports Fan](#Targeting-the-American-Sports-Fan)
-    - [One-upping the Competition](#One-upping-the-Competition)
-    - [Powering the NLP system](#Powering-the-NLP-system)
-- [Evaluating the Market Landscape](#Evaluating-the-Market-Landscape)
-    - [NLP in Sports](#NLP-in-Sports)
-    - [Developments in Sports Analytics](#Developments-in-Sports-Analytics)
-    - [Other Major Companies in the Sports Analytics Domain](#Other-Major-Companies-in-the-Sports-Analytics-Domain)
-- [Suggestions for Business Improvement](#Suggestions-for-Business-Improvement)
-    - [BlitzBot](#Start-or-Sit-Chatbot-(BlitzBot))
-    - [The Benefits of BlitzBot](#The-Benefits-of-BlitzBot)
-    - [Implementing BlitzBot](#Implementing-BlitzBot)
+- [Overview and Origin](#overview-and-origin)
+- [Activities Driving Business Success](#activities-driving-business-success)
+- [Evaluating the Market Landscape](#evaluating-the-market-landscape)
+- [Suggestions for Business Improvement](#suggestions-for-business-improvement)
 - [Conclusion](#conclusion)
   
 <br>
@@ -54,7 +40,7 @@
 
      1. In order for a machine to analyze data in the form of text, it is first [preprocessed, or "cleaned"](https://exchange.scale.com/public/blogs/preprocessing-techniques-in-nlp-a-guide "NLP Preprocessing Techniques"). This generally means simplifying it by removing punctuation, common words, or reducing words to their root form.
      1. The computer then analyzes the sentence structure and grammar. This is called syntactic analysis, or "parsing". Parsing aims to identify how words relate to eachother, such as subject-verb-object relationships. You can see how this works yourself by trying [Displacy](https://demos.explosion.ai/displacy "Displacy"). <p align="center">
-  <img src="https://github.com/marko-londo/IBM-ESPN-Case-Study/blob/main/Images/Screenshot%20(1).png" width=90%/></p>
+  <img src="https://github.com/marko-londo/IBM-ESPN-Case-Study/blob/main/Images/Screenshot%20(1).png" width=110%/></p>
    1. Next is [semantic analysis](https://www.geeksforgeeks.org/understanding-semantic-analysis-nlp/ "Understanding Semantic Analysis "). In this step the machine determines the sentiment and roles of the words, in order to extract meaning and understanding from the text. 
     1. [Pragmatic processing](https://www.scaler.com/topics/pragmatics-in-nlp/ "Pragmatics") is applied to extract the context. Pragmatics focuses on the perceived tone, speaker intent and cultural conventions to fully understand the meaning of a piece of text.
     1. [Machine Learning and Deep Learning](https://www.coursera.org/articles/ai-vs-deep-learning-vs-machine-learning-beginners-guide "Deep Learning vs. Machine Learning") techniques are an essential part of NLP's functionality. Traditional machine learning algorithms and neural networks are used to train models for NLP tasks. These models learn patterns and relationsips in annotated data and us them to make predictions and perform language-related tasks.
@@ -65,7 +51,10 @@
     NLP is a field that continues to grow and evolve by the day. Researchers and developers continuosly work to improve the accuracy and capabilities of their systems.<br><br>
 
 - ### Navigating the NLP Landscape
-    The NLP domain gas witnessed significant trends that have shaped it's development. These include:
+    While natural language processing (NLP) has experienced significant recent growth and increased mainstream media coverage, it is important to note that NLP is not a new technology. The birth of nlp dates back to [the late 1940's - early 1950's](https://www.deep-talk.ai/post/history-and-present-of-natural-language-processing#:~:text=The%20beginnings%20(1950%E2%80%931970),and%20understanding%20of%20natural%20language. "History and present of Natural Language Processing");
+    >NLP [...] was born in the 1950s as a sub-area of Artificial Intelligence and Linguistics, with the aim of studying the problems derived from the automatic generation and understanding of natural language. Although works from earlier periods can be found, it was in 1950 that Alan Turing published an article entitled “Intelligence” that proposed what is now called the Turing test as a criterion of intelligence.<p align="center">
+  <img src="https://github.com/marko-londo/IBM-ESPN-Case-Study/blob/main/Images/turing-test.png"/>
+</p>
     - Pre-trained language models
     - Transfer Learning
     - Multilingual NLP
