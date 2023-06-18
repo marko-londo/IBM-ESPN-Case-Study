@@ -12,8 +12,9 @@
 <br>
 
 - [Introduction](#introduction)
+- [Overview and Evolution of NLP](#Overview-and-Evolution-of-NLP)
   - [What is NLP?](#what-is-nlp)
-  - [A Brief History of NLP](#a-brief-history-of-nlp) 
+  - [History of NLP](#a-brief-history-of-nlp) 
 - [Overview and Origin](#overview-and-origin)
   - [What is IBM Watson?](#what-is-ibm-watson)
   - [Project Incorporation](#project-incorporation) 
@@ -41,7 +42,16 @@
 
 
 ## Introduction 
-<br>[IBM Watson](https://www.ibm.com/watson "IBM Watson") and [ESPN](https://www.espn.com/ "ESPN")'s use of [natural language processing](https://www.ibm.com/topics/natural-language-processing/ "What is natural language processing?") is a fascinating case study that showcases the power of artificial intelligence in the world of sports. This project has garnered the attention of both sports fans and tech enthusiasts alike. By harnessing IBM Watson's advanced NLP capabilities, ESPN has acquired the tools necessary to reshape the landscape of sports journalism and analytics through faster reporting times and improved accuracy, and has applied these practices to enhance the [fantasy football](https://www.espn.com/fantasy/football/story/_/id/19522393/fantasy-football-how-play-fantasy-football-espn-fantasy-football-101 "Fantasy Football 101") and general sports media experience.<br><br>
+<br>[IBM Watson](https://www.ibm.com/watson "IBM Watson") and [ESPN](https://www.espn.com/ "ESPN")'s use of [natural language processing](https://www.ibm.com/topics/natural-language-processing/ "What is natural language processing?") is a fascinating case study that showcases the power of artificial intelligence in the world of sports. This project has garnered the attention of both sports fans and tech enthusiasts alike. By harnessing IBM Watson's advanced NLP capabilities, ESPN has acquired the tools necessary to reshape the landscape of sports journalism and analytics through faster reporting times and improved accuracy, and has applied these practices to enhance the [fantasy football](https://www.espn.com/fantasy/football/story/_/id/19522393/fantasy-football-how-play-fantasy-football-espn-fantasy-football-101 "Fantasy Football 101") and general sports media experience. 
+<br>
+<br>
+<hr>
+<br>
+<h1 align="center">
+	<img src="https://github.com/marko-londo/IBM-ESPN-Case-Study/blob/main/Images/1%20-%20a%20supercomputer%20analyzing%20data%20on%20a%20football%20f.png" alt="Overview and Evolution of NLP">
+
+## Overview and Evolution of NLP
+<br>This section offers a brief description of NLP, how it operates, and it's history.<br><br>
 
 - ### What is NLP?
 
@@ -64,7 +74,7 @@
 
     NLP is a field that continues to grow and evolve by the day. Researchers and developers continuosly work to improve the accuracy and capabilities of their systems.<br><br>
 
-- ### A Brief History of NLP
+- ### History of NLP
     Although NLP has experienced significant recent growth and increased mainstream media coverage, it is important to note that it is not a new technology, with it's birth dating back to the late 1940's - early 1950's. The concept of computers being capable of thought was first introduced in the paper "Computing Machinery and Intelligence" [written by Alan Turing](https://www.dataversity.net/a-brief-history-of-natural-language-processing-nlp/ "A Brief History of Natural Language Processing (NLP)"):
     >In 1950, Alan Turing wrote a paper describing a test for a “thinking” machine. He stated that if a machine could be part of a conversation through the use of a teleprinter, and it imitated a human so completely there were no noticeable differences, then the machine could be considered capable of thinking. Shortly after this, in 1952, the Hodgkin-Huxley model showed how the brain uses neurons in forming an electrical network. These events helped inspire the idea of Artificial Intelligence (AI), Natural Language Processing (NLP), and the evolution of computers.
 
@@ -94,7 +104,7 @@
 <h1 align="center">
 	<img src="https://github.com/marko-londo/IBM-ESPN-Case-Study/blob/main/Images/1%20-%20a%20supercomputer%20analyzing%20data%20on%20a%20football%20f.png" alt="Overview and Origin">
 
-## Overview and Origin
+## IBM Watson and ESPN: Transforming Sports Analytics
 <br>This section provides an overview of the partnership between IBM Watson and ESPN, focusing on the use of NLP in the context of sports coverage and fantasy football.<br><br>
 
 - ### What is IBM Watson?
@@ -120,11 +130,11 @@
 
 - ### Targeting the American Sports Fan
 
-    ESPN's intended customers are fantasy football (and general sports) fans who are looking for fast, accurate, and reliable coverage of their favorite players and teams. The market size for this set of customers is significant, as sports fans represent a large and passionate audience. ESPN is currently the number one provider in fantasy sports, serving over 20 million players across multiple platforms. With fantasy sports rising to approximately 50.4 million players in 2022, they account for nearly 40% of users in a $8.8 billion industry. <br><br>
+    ESPN targets a specific customer base comprising avid fantasy football and sports fans who crave fast, accurate, and dependable coverage of their favorite players and teams. This segment represents a substantial market size, characterized by a passionate and engaged audience. Currently, ESPN holds the top position as the premier provider of fantasy sports, serving an impressive user base of over 20 million players across various platforms. The popularity of fantasy sports has witnessed remarkable growth, with approximately 50.4 million players in 2022, contributing to an industry valued at $8.8 billion. ESPN's dominance in this space is evident, as their services cater to nearly 40% of users, underscoring their reach and influence. <br><br>
 
 - ### One-upping the Competition
 
-    The main thing that sets IBM Watson and ESPN apart from their competitors is their ability to process vast amounts of data in real-time and generate insights based on that data. This allows them to provide fans with more up-to-date and accurate information than other sports media outlets or fantasy football providers. As of 2021 they added a new feature to their fantasy app; a trade analyzer with Watson. This tool uses AI to analyze vast quantities of football data in order to help fantasy league managers evaluate the fairness of a trade proposal by assigning a value to the players offered and/or pointing out the areas in which the counterparty's team are weak, ultimately assisting the manager in making (or offering) an educated trade.
+    IBM Watson and ESPN distinguish themselves from competitors through their unparalleled ability to process vast amounts of real-time data and generate actionable insights. This capability allows them to deliver more timely and accurate information to fans compared to other sports media outlets and fantasy football providers. As of 2021, they introduced a groundbreaking feature to their fantasy app: the Watson-powered trade analyzer. Leveraging AI technology, this innovative tool analyzes extensive football data, helping fantasy league managers evaluate the fairness of trade proposals by assigning values to players and identifying weaknesses in the counterparty's team. By empowering managers to make informed trading decisions, this feature showcases the practical benefits of AI in fantasy sports.
     <p align="center">
   <img src="https://github.com/marko-londo/IBM-ESPN-Case-Study/blob/main/Images/Trade_Assistant_combined.jpg"/>
 </p>
@@ -132,10 +142,28 @@
 
 - ### Powering the NLP System
 
-    IBM Watson uses a variety of technologies to power their NLP system, including machine learning algorithms and deep neural networks [as defined in their blog](https://www.ibm.com/blog/ibm-watson-and-espn-use-ai-to-transform-fantasy-football-data-into-insight/ " IBM blog");
+    IBM Watson uses a variety of technologies to power their NLP system [for player insights](https://www.ibm.com/blog/ibm-watson-and-espn-use-ai-to-transform-fantasy-football-data-into-insight/ " IBM Watson and ESPN use of AI for player insights"):
     >Using deep neural networks and advanced natural language processing, Player Insights with Watson combines the analyses of both structured and unstructured data to help fantasy managers compare players, estimate the potential upside and downside of starting a particular player and even assess the impact of an injury. It lets a fantasy owner visualize the risk-and-reward scenarios, see trends over time and field a more competitive team.
     >
     >Player Insights are built on containerized apps using Red Hat OpenShift running on the IBM Cloud. A machine learning engine pulls dozens of models from cloud object storage (running in Dallas and Washington, D.C., to ensure continuous availability).
+
+    Some of the key technologies employed by Watson include:
+
+    - Deep Learning: Deep learning techniques, such as neural networks, are utilized by Watson to enhance its language understanding and generate more accurate and contextually relevant responses.
+
+    - Machine Learning: IBM Watson employs machine learning algorithms to train its models on vast amounts of data, enabling it to understand and interpret natural language patterns and nuances.
+
+    - Natural Language Understanding (NLU): This technology enables Watson to extract meaning and insights from unstructured text by analyzing syntax, semantics, and context.
+
+    - Natural Language Generation (NLG): Watson leverages NLG techniques to generate human-like text and responses based on the input and context it receives.
+
+    - Entity Recognition and Extraction: IBM Watson employs entity recognition and extraction capabilities to identify and extract relevant entities (such as names, locations, organizations) from text, allowing for better analysis and understanding.
+
+    - Knowledge Graphs: IBM Watson employs knowledge graphs, which are structured representations of information and relationships, to enhance its understanding and contextual interpretation of text.
+
+    - Named Entity Recognition (NER): NER is a technology used by Watson to identify and classify named entities, such as names of people, organizations, locations, and more, within text.
+
+    - Text Summarization: Watson incorporates text summarization techniques to generate concise summaries of longer texts, allowing for easier understanding and extraction of key information.
 
         
     Watson continuously analyzes millions of player injury reports, opinion pieces and news stories to collect and correlate data on all players and teams in the league.<br>
@@ -159,7 +187,13 @@
 
 - ### Developments in Sports Analytics
 
-    Over the last 5-10 years, NLP has seen significant progress in the field of sports analytics. One major trend is the use of machine learning to identify patterns and insights that would be impossible for humans to detect. An example of this would be missed calls by referees. Another trend is the development of more sophisticated NLP tools that can understand the nuances of human language, including language and context-specific terminology. Up to the minute journalism and reporting, down to even the last play or bat swing, draft class evaluation, training and development techniques. Analyzing batting averages and determining what pitches cause a batter to strike out. These studies and collections of data are all executed through the use of NLP.
+    In recent years, NLP has made significant advancements in the field of sports analytics. These developments have revolutionized how data is analyzed and interpreted in the context of various sports. NLP, in conjunction with machine learning techniques, has played a crucial role in uncovering patterns and insights that were previously undetectable by humans alone.
+
+    One major trend in sports analytics is the application of machine learning algorithms to identify missed calls by referees, providing objective analysis and evaluation. By analyzing vast amounts of game footage and related data, NLP-powered systems can detect and highlight instances where referees may have overlooked fouls or made incorrect decisions.
+
+    Advancements in NLP technology have led to the development of sophisticated tools capable of understanding the intricacies of human language. These tools can process language-specific terminology, context, and nuances, enabling real-time journalism and reporting, evaluating draft classes, devising effective training and development techniques, analyzing batting averages, and determining the impact of specific pitches on a batter's performance. These applications exemplify how NLP facilitates data-driven decision-making in the realm of sports.
+
+    By leveraging NLP techniques, sports analytics professionals can gain valuable insights, improve performance, and make data-backed decisions in various aspects of the sports industry.
     <br><br>
 
 - ### Other Major Companies in the Sports Analytics Domain
