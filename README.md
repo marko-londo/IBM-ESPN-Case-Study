@@ -24,7 +24,8 @@
 - [Activities Driving Business Success](#activities-driving-business-success)
   - [Targeting the American Sports Fan](#targeting-the-american-sports-fan)
   - [One-upping the Competition](#one-upping-the-competition)
-  - [Powering the NLP System](#powering-the-nlp-system)  
+  - [Powering the NLP System](#powering-the-nlp-system)
+  - [Evaluating Business Success](#evaluating-business-success)  
 - [Evaluating the Market Landscape](#evaluating-the-market-landscape)
     - [NLP in Sports](#nlp-in-sports)
     - [Developments in Sports Analytics](#developments-in-sports-analytics)
@@ -178,6 +179,18 @@
 
         
     Watson continuously analyzes millions of player injury reports, opinion pieces and news stories to collect and correlate data on all players and teams in the league. <br><br>
+
+- ### Evaluating Business Success
+  
+  With its established reputation as a trusted and authoritative source of sports coverage and journalism, ESPN's incorporation of Watson further strengthens its position at the top and widens the gap between itself and its competitors. In the evolving landscape of journalism, where the use of AI is becoming increasingly prevalent, IBM Watson stands out as a powerful model that few others can compare to.
+
+  >“Sports fans hold ESPN to the highest standard, and 2022 showed once again how committed we are to delivering for them. We brought the very best offerings to every conceivable sports-related environment and experience, and often did so in record numbers. On top of that, we developed innovations and secured new agreements that will drive a successful future for ESPN and The Walt Disney Company. In an ever-changing and competitive landscape, ESPN continues to lead through a focus on quality, creativity and an inclusive culture.” 
+
+  — Jimmy Pitaro, Chairman, ESPN and Sports Content,  [2022 Year in Review](https://espnpressroom.com/us/2022-yir/ "ESPN 2022 Year in Review")
+
+  2022 was yet another succesful year for ESPN, let's take a closer look at some key metrics that showcase their dominance in the sports media landscape:
+  - 2022 marked the 31st consecutive year that ESPN has held the No. 1 spot for Men 18-34 and 18-49 specifically, and 13 straight years No. 1 among people 18-34 and 18-49.
+  
 
 [Return to Top](#table-of-contents)
 <br>
