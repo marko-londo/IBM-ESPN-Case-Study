@@ -14,7 +14,6 @@
 - [Introduction](#introduction)
   - [What is NLP?](#what-is-nlp)
   - [A Brief History of NLP](#a-brief-history-of-nlp) 
-  - [Navigating the NLP Landscape](#navigating-the-nlp-landscape)
 - [Overview and Origin](#overview-and-origin)
   - [What is IBM Watson?](#what-is-ibm-watson)
   - [Project Incorporation](#project-incorporation) 
@@ -88,19 +87,6 @@
   <p align="center">
   <img src="https://github.com/marko-londo/IBM-ESPN-Case-Study/blob/main/Images/Screenshot%20(4).png"/>
 </p>
-  
-
- <br><br>
-
-- ### Navigating the NLP Landscape
-    - Pre-trained language models
-    - Transfer Learning
-    - Multilingual NLP
-    - Transformer-Based Architectures
-    - Contextual Word Embeddings
-    - Neural Machine Translation
-    - Voice Assistants and Chatbots
-    - Biomedical NLP
 <br>
 <br>
 <hr>
