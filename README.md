@@ -51,7 +51,7 @@
      >
      >NLP combines computational linguistics—rule-based modeling of human language—with statistical, machine learning, and deep learning models. Together, these technologies enable computers to process human language in the form of text or voice data and to ‘understand’ its full meaning, complete with the speaker or writer’s intent and sentiment.
 
-     The way this works is through a series of analytical processes. NLP's order of operation is typically as follows:
+     This is executed through a series of analytical processes. NLP's order of operation is typically as follows:
 
      1. In order for a machine to analyze data in the form of text, it is first [preprocessed, or "cleaned"](https://exchange.scale.com/public/blogs/preprocessing-techniques-in-nlp-a-guide "NLP Preprocessing Techniques"). This generally means simplifying it by removing punctuation, common words, or reducing words to their root form.
      1. The computer then analyzes the sentence structure and grammar. This is called syntactic analysis, or "parsing". Parsing aims to identify how words relate to eachother, such as subject-verb-object relationships. You can see how this works yourself by trying [Displacy](https://demos.explosion.ai/displacy "Displacy"). <p align="center">
@@ -66,10 +66,31 @@
     NLP is a field that continues to grow and evolve by the day. Researchers and developers continuosly work to improve the accuracy and capabilities of their systems.<br><br>
 
 - ### A Brief History of NLP
-    While natural language processing (NLP) has experienced significant recent growth and increased mainstream media coverage, it is important to note that NLP is not a new technology. The birth of nlp dates back to [the late 1940's - early 1950's](https://www.deep-talk.ai/post/history-and-present-of-natural-language-processing#:~:text=The%20beginnings%20(1950%E2%80%931970),and%20understanding%20of%20natural%20language. "History and present of Natural Language Processing");
-    >NLP [...] was born in the 1950s as a sub-area of Artificial Intelligence and Linguistics, with the aim of studying the problems derived from the automatic generation and understanding of natural language. Although works from earlier periods can be found, it was in 1950 that Alan Turing published an article entitled “Intelligence” that proposed what is now called the Turing test as a criterion of intelligence.<p align="center">
-  <img src="https://github.com/marko-londo/IBM-ESPN-Case-Study/blob/main/Images/turing-test.png"/>
-</p><br><br>
+    Although NLP has experienced significant recent growth and increased mainstream media coverage, it is important to note that it is not a new technology, with it's birth dating back to the late 1940's - early 1950's. The concept of computers being capable of thought was first introduced in the paper "Computing Machinery and Intelligence" [written by Alan Turing](https://www.dataversity.net/a-brief-history-of-natural-language-processing-nlp/ "A Brief History of Natural Language Processing (NLP)"):
+    >In 1950, Alan Turing wrote a paper describing a test for a “thinking” machine. He stated that if a machine could be part of a conversation through the use of a teleprinter, and it imitated a human so completely there were no noticeable differences, then the machine could be considered capable of thinking. Shortly after this, in 1952, the Hodgkin-Huxley model showed how the brain uses neurons in forming an electrical network. These events helped inspire the idea of Artificial Intelligence (AI), Natural Language Processing (NLP), and the evolution of computers.
+
+    From that point onward it has continued to evolve into the powerful tool we have today. Here are some of the major landmarks in it's history:
+    - 1950's: First attempts were made using rule based systems (relying on predefined linguistic rules and patterns).
+    - 1954: The Georgetown - IBM Experiment was one of the earliest instances of machine based translation. [Researchers utilized an IBM 701 to translate a set of 60 Russian sentences into English.](https://github.com/marko-londo/IBM-ESPN-Case-Study/blob/main/Images/georgetown.png "A flowchart of part of the IBM'S dictionary lookup procedures.")
+    - 1960's: Programs such as "Eliza" were created, able to respond to human imputs in a way that seem natural and human.
+    - 1969: First NLP conference was held at MIT
+    - 1970's: Programmers began building conceptual ontologies (machine-usable data), emphasising on syntactic and semantic analysis.
+    - 1980's: Statistical models came into play, using large ammounts of data to understand and generate natural language.
+    - 1990's: Researches begin to develop machine learning-based approaches.
+    - 1997: [IBM's Deep Blue defeated World chess champion Gary Kasparov](https://youtu.be/KF6sLCeBj0s "Deep Blue vs Kasparov: How a computer beat best chess player in the world - BBC News")
+    - 2000's: More advanced systems were implemented, such as machine translation, speech recognition, and text-to-speech systems.
+    - 2010's: With large ammounts of data readily available, rapid advancement in deep learning techniques were produced, such as [Recurring Neural Networks (RNNs)](https://www.ibm.com/topics/recurrent-neural-networks# "What are RNNs?") and [Transformer Models](https://blogs.nvidia.com/blog/2022/03/25/what-is-a-transformer-model/ "What are Transformer Models?")
+    - 2015: Google Translate incorporated neural machine translation to enhance the precision and quality of its translations.
+    - 2016: OpenAI released GPT-1, their language model, which was one of the first large-scale models trained using unsupervised learning, enabling it to generate text that closely resembled human language.
+    - 2018: Google introduced BERT (Bidirectional Encoder Representations from Transformers), an AI language model that made significant advancements in various natural language processing tasks (sentiment analysis, text classification, question-answering, and named entity recognition).
+    - 2019: OpenAI released : GPT-2, which showcased significant advancements in generating highly coherent and realistic text, as if written by a human.
+    - 2020: GPT-3, the third iteration of the GPT series, was released, and introduced enhanced capabilities with a larger capacity and remarkably realistic outputs. It excells in generating text, answering questions, and executing various language-based tasks, often blurring the distinction between human-written and machine-generated text.
+  <p align="center">
+  <img src="https://github.com/marko-londo/IBM-ESPN-Case-Study/blob/main/Images/Screenshot%20(4).png"/>
+</p>
+  
+
+ <br><br>
 
 - ### Navigating the NLP Landscape
     - Pre-trained language models
