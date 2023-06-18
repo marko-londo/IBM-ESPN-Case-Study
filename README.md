@@ -82,23 +82,23 @@
     >In 1950, Alan Turing wrote a paper describing a test for a “thinking” machine. He stated that if a machine could be part of a conversation through the use of a teleprinter, and it imitated a human so completely there were no noticeable differences, then the machine could be considered capable of thinking. Shortly after this, in 1952, the Hodgkin-Huxley model showed how the brain uses neurons in forming an electrical network. These events helped inspire the idea of Artificial Intelligence (AI), Natural Language Processing (NLP), and the evolution of computers.
 
     From that point onward it has continued to evolve into the powerful tool we have today. Here are some of the major landmarks in it's history:
-    - 1950's: First attempts were made using rule based systems (relying on predefined linguistic rules and patterns).
+    - **1950's**: First attempts were made using rule based systems (relying on predefined linguistic rules and patterns).
 
-    - 1954: The Georgetown - IBM Experiment was one of the earliest instances of machine based translation. [Researchers utilized an IBM 701 to translate a set of 60 Russian sentences into English.](https://github.com/marko-londo/IBM-ESPN-Case-Study/blob/main/Images/georgetown.png "A flowchart of part of the IBM'S dictionary lookup procedures.")
+    - **1954**: The Georgetown - IBM Experiment was one of the earliest instances of machine based translation. [Researchers utilized an IBM 701 to translate a set of 60 Russian sentences into English.](https://github.com/marko-londo/IBM-ESPN-Case-Study/blob/main/Images/georgetown.png "A flowchart of part of the IBM'S dictionary lookup procedures.")
   
-    - 1960's: Programs such as "Eliza" were created, able to respond to human imputs in a way that seem natural and human.
-    - 1969: First NLP conference was held at MIT
-    - 1970's: Programmers began building conceptual ontologies (machine-usable data), emphasising on syntactic and semantic analysis.
-    - 1980's: Statistical models came into play, using large ammounts of data to understand and generate natural language.
-    - 1990's: Researches begin to develop machine learning-based approaches.
-    - 1997: [IBM's Deep Blue defeated World chess champion Gary Kasparov](https://youtu.be/KF6sLCeBj0s "Deep Blue vs Kasparov: How a computer beat best chess player in the world - BBC News")
-    - 2000's: More advanced systems were implemented, such as machine translation, speech recognition, and text-to-speech systems.
-    - 2010's: With large ammounts of data readily available, rapid advancement in deep learning techniques were produced, such as [Recurring Neural Networks (RNNs)](https://www.ibm.com/topics/recurrent-neural-networks# "What are RNNs?") and [Transformer Models](https://blogs.nvidia.com/blog/2022/03/25/what-is-a-transformer-model/ "What are Transformer Models?")
-    - 2015: Google Translate incorporated neural machine translation to enhance the precision and quality of its translations.
-    - 2016: OpenAI released GPT-1, their language model, which was one of the first large-scale models trained using unsupervised learning, enabling it to generate text that closely resembled human language.
-    - 2018: Google introduced BERT (Bidirectional Encoder Representations from Transformers), an AI language model that made significant advancements in various natural language processing tasks (sentiment analysis, text classification, question-answering, and named entity recognition).
-    - 2019: OpenAI released : GPT-2, which showcased significant advancements in generating highly coherent and realistic text, as if written by a human.
-    - 2020: GPT-3, the third iteration of the GPT series, was released, and introduced enhanced capabilities with a larger capacity and remarkably realistic outputs. It excells in generating text, answering questions, and executing various language-based tasks, often blurring the distinction between human-written and machine-generated text.
+    - **1960's**: Programs such as "Eliza" were created, able to respond to human imputs in a way that seem natural and human.
+    - **1969**: First NLP conference was held at MIT
+    - **1970's**: Programmers began building conceptual ontologies (machine-usable data), emphasising on syntactic and semantic analysis.
+    - **1980's**: Statistical models came into play, using large ammounts of data to understand and generate natural language.
+    - **1990's**: Researches begin to develop machine learning-based approaches.
+    - **1997**: [IBM's Deep Blue defeated World chess champion Gary Kasparov](https://youtu.be/KF6sLCeBj0s "Deep Blue vs Kasparov: How a computer beat best chess player in the world - BBC News")
+    - **2000's**: More advanced systems were implemented, such as machine translation, speech recognition, and text-to-speech systems.
+    - **2010's**: With large ammounts of data readily available, rapid advancement in deep learning techniques were produced, such as [Recurring Neural Networks (RNNs)](https://www.ibm.com/topics/recurrent-neural-networks# "What are RNNs?") and [Transformer Models](https://blogs.nvidia.com/blog/2022/03/25/what-is-a-transformer-model/ "What are Transformer Models?")
+    - **2015**: Google Translate incorporated neural machine translation to enhance the precision and quality of its translations.
+    - **2016**: OpenAI released GPT-1, their language model, which was one of the first large-scale models trained using unsupervised learning, enabling it to generate text that closely resembled human language.
+    - **2018**: Google introduced BERT (Bidirectional Encoder Representations from Transformers), an AI language model that made significant advancements in various natural language processing tasks (sentiment analysis, text classification, question-answering, and named entity recognition).
+    - **2019**: OpenAI released : GPT-2, which showcased significant advancements in generating highly coherent and realistic text, as if written by a human.
+    - **2020**: GPT-3, the third iteration of the GPT series, was released, and introduced enhanced capabilities with a larger capacity and remarkably realistic outputs. It excells in generating text, answering questions, and executing various language-based tasks, often blurring the distinction between human-written and machine-generated text.
      
   <br>
   <p align="center">
@@ -160,21 +160,21 @@
 
     Some of the key technologies employed by Watson include:
 
-    - Deep Learning: Deep learning techniques, such as neural networks, are utilized by Watson to enhance its language understanding and generate more accurate and contextually relevant responses.
+    - **Deep Learning**: Deep learning techniques, such as neural networks, are utilized by Watson to enhance its language understanding and generate more accurate and contextually relevant responses.
 
-    - Machine Learning: IBM Watson employs machine learning algorithms to train its models on vast amounts of data, enabling it to understand and interpret natural language patterns and nuances.
+    - **Machine Learning**: IBM Watson employs machine learning algorithms to train its models on vast amounts of data, enabling it to understand and interpret natural language patterns and nuances.
 
-    - Natural Language Understanding (NLU): This technology enables Watson to extract meaning and insights from unstructured text by analyzing syntax, semantics, and context.
+    - **Natural Language Understanding (NLU)**: This technology enables Watson to extract meaning and insights from unstructured text by analyzing syntax, semantics, and context.
 
-    - Natural Language Generation (NLG): Watson leverages NLG techniques to generate human-like text and responses based on the input and context it receives.
+    - **Natural Language Generation (NLG)**: Watson leverages NLG techniques to generate human-like text and responses based on the input and context it receives.
 
-    - Entity Recognition and Extraction: IBM Watson employs entity recognition and extraction capabilities to identify and extract relevant entities (such as names, locations, organizations) from text, allowing for better analysis and understanding.
+    - **Entity Recognition and Extraction**: IBM Watson employs entity recognition and extraction capabilities to identify and extract  names, locations and organizations from text, allowing for better analysis and understanding.
 
-    - Knowledge Graphs: IBM Watson employs knowledge graphs, which are structured representations of information and relationships, to enhance its understanding and contextual interpretation of text.
+    - **Named Entity Recognition (NER)**: NER is a technology used by Watson to identify and classify named entities, such as names of people, organizations, locations, and more, within text.
 
-    - Named Entity Recognition (NER): NER is a technology used by Watson to identify and classify named entities, such as names of people, organizations, locations, and more, within text.
+    - **Knowledge Graphs**: IBM Watson employs knowledge graphs, which are structured representations of information and relationships, to enhance its understanding and contextual interpretation of text.
 
-    - Text Summarization: Watson incorporates text summarization techniques to generate concise summaries of longer texts, allowing for easier understanding and extraction of key information.
+    - **Text Summarization**: Watson incorporates text summarization techniques to generate concise summaries of longer texts, allowing for easier understanding and extraction of key information.
 
         
     Watson continuously analyzes millions of player injury reports, opinion pieces and news stories to collect and correlate data on all players and teams in the league. <br><br>
@@ -193,11 +193,14 @@
 - ### NLP in Sports
 
     NLP has various applications in the sports world, not just for journalists and fans, but for teams, coaches and organizations as well.
-    Some examples of its uses are as follows:
-    - Sentiment Analysis: NLP can be used to analyze social media posts, news articles, and fan discussions to guage public sentiment towards teams, players and sporting events. This information can help teams and sports organizations understand public opinon and make informed decisions.
-    - Player and Team Performance Analysis: NLP can be used to extract data from match reports and sports commentary, to help coaches gain a better understanding of their own performance or their opponents.
-    - Injury Prediction and Prevention: NLP can be used to analyze injury reports and medical records to identify risk factors associated with injuries in order to take preventative action or develop injury recovery plans.
-    - Sports Analytics: NLP can be used to extract data from player biographies and articles to structure advanced analytics, trend analysism and predictive modeling to gain deeper insights into player performance and game outcomes. This is the main use of NLP in sports.<br><br>
+    Some examples of its uses include:
+    - **Sentiment Analysis**: NLP can be used to analyze social media posts, news articles, and fan discussions to guage public sentiment towards teams, players and sporting events. This information can help teams and sports organizations understand public opinon and make informed decisions.
+  
+    - **Player and Team Performance Analysis**: NLP can be used to extract data from match reports and sports commentary, to help coaches gain a better understanding of their own performance or their opponents.
+
+    - **Injury Prediction and Prevention**: NLP can be used to analyze injury reports and medical records to identify risk factors associated with injuries in order to take preventative action or develop injury recovery plans.
+
+    - **Sports Analytics**: NLP can be used to extract data from player biographies and articles to structure advanced analytics, trend analysism and predictive modeling to gain deeper insights into player performance and game outcomes. This is the main use of NLP in sports.<br><br>
 
 - ### Developments in Sports Analytics
 
@@ -212,7 +215,7 @@
 
 - ### Other Major Companies in the Sports Analytics Domain
 
-    Apart from ESPN, there area several other companies that have made significant contributions to the field of NLP sports analytics:
+    Apart from ESPN, there area several other companies that have made significant contributions to the field of NLP sports analytics, however these companies mainly serve clients rather than customers:
     - [Sportlogiq](https://www.sportlogiq.com/ "Sportlogiq's website") - The global leader in hockey analytics, which uses computer vision and machine learning to analyze player and team performance in real time.
     - [Second Spectrum](https://www.secondspectrum.com/ "Second Spectrum's website") - Official Tracking Provider for the NBA, Premier League, and MLS, using advanced NLP algorithms to generate insights on basketball games, including shot charts, player tracking and defensive analysis.
     - [Hudl](https://www.hudl.com/ "Hudl's website") - Video analysis for coaches and players. Over than 200K teams across 40 sports use Hudl to capture, analyze and learn from video and data.
@@ -252,7 +255,7 @@ To enhance the user experience and provide valuable support for fantasy football
   <br>  
 
   <p align="center">
-  <img src="https://github.com/marko-londo/IBM-ESPN-Case-Study/blob/main/Images/blitzbot.jpg?raw=true" height=250/>
+  <img src="https://github.com/marko-londo/IBM-ESPN-Case-Study/blob/main/Images/blitzbot.jpg?raw=true" height=250/><br><em>Blitzbot's Avatar</em>
 
 </p>
 <br>
@@ -262,7 +265,9 @@ To enhance the user experience and provide valuable support for fantasy football
     
     Blitzbot can integrate with data APIs to access real-time data on players, teams, injuries, weather conditions, and any other relevant information, ensuring it has access to the latest information. 
     
-    Hosting Blitzbot on a cloud infrastructure, such as [Amazon Web Services](https://aws.amazon.com/ "AWS") or [Microsoft Azure](https://azure.microsoft.com/en-us "Azure") is a crucial part of its implementation, ensuring it can handle high volumes of user interactions and facilitating data storage. <br><br>
+    Hosting Blitzbot on a cloud infrastructure, such as [Amazon Web Services](https://aws.amazon.com/ "AWS") or [Microsoft Azure](https://azure.microsoft.com/en-us "Azure") is a crucial part of its implementation, ensuring it can handle high volumes of user interactions and facilitating data storage.
+    
+    Overall, the benefits of a feature such as Blitzbot are many. Increased engagement with the app, leading to greater ad revenue, the potential for adding a "pro manager" feature (tier based paid membership for use of Blitzbot, with basic and premium tiers), and the generation of a larger pool of data collection to provide more insights within the context of fantasy football users.  <br><br>
 
 [Return to Top](#table-of-contents)
 <br>
