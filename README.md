@@ -1,5 +1,5 @@
 <h1 align="center">
-	<img src="https://github.com/marko-londo/IBM-ESPN-Case-Study/blob/main/Images/1%20-%20nfl%20player%20scoring%20a%20touchdown.png" alt="Processing the Perfect Lineup">
+	<img src="https://github.com/marko-londo/IBM-ESPN-Case-Study/blob/main/Images/title.png?raw=true" alt="Processing the Perfect Lineup">
 </h1>
 <h1 align="center">
 	<b>Processing the Perfect Lineup</b>
@@ -10,12 +10,14 @@
 </h2>
 <br>
 <br>
+<br>
 
+### Table of Contents
 - [Introduction](#introduction)
-- [Overview and Evolution of NLP](#Overview-and-Evolution-of-NLP)
+- [Overview and Evolution of NLP](#overview-and-evolution-of-nlp)
   - [What is NLP?](#what-is-nlp)
   - [History of NLP](#a-brief-history-of-nlp) 
-- [Overview and Origin](#overview-and-origin)
+- [IBM Watson and ESPN: Transforming Sports Analytics](#ibm-watson-and-espn-transforming-sports-analytics)
   - [What is IBM Watson?](#what-is-ibm-watson)
   - [Project Incorporation](#project-incorporation) 
   - [Redefining Sports Coverage](#redefining-sports-coverage)
@@ -29,26 +31,27 @@
     - [Other Major Companies in the Sports Analytics Domain](#other-major-companies-in-the-sports-analytics-domain) 
 - [Suggestions for Business Improvement](#suggestions-for-business-improvement)
   - [Blitzbot](#blitzbot)
-  - [The Benefits of Blitzbot](#the-benefits-of-blitzbot)
-  - [Implementing Blitzbot](#implementing-blitzbot)
+  - [Developing Blitzbot](#developing-blitzbot)
 - [Conclusion](#conclusion)
   
 <br>
 <hr>
 <br>
 <h1 align="center">
-	<img src="https://github.com/marko-londo/IBM-ESPN-Case-Study/blob/main/Images/1%20-%20computer%20analyzing%20big%20data.png" alt="Introduction">
+	<img src="https://github.com/marko-londo/IBM-ESPN-Case-Study/blob/main/Images/intro.png?raw=true" alt="Introduction">
 </h1>
 
 
 ## Introduction 
-<br>[IBM Watson](https://www.ibm.com/watson "IBM Watson") and [ESPN](https://www.espn.com/ "ESPN")'s use of [natural language processing](https://www.ibm.com/topics/natural-language-processing/ "What is natural language processing?") is a fascinating case study that showcases the power of artificial intelligence in the world of sports. This project has garnered the attention of both sports fans and tech enthusiasts alike. By harnessing IBM Watson's advanced NLP capabilities, ESPN has acquired the tools necessary to reshape the landscape of sports journalism and analytics through faster reporting times and improved accuracy, and has applied these practices to enhance the [fantasy football](https://www.espn.com/fantasy/football/story/_/id/19522393/fantasy-football-how-play-fantasy-football-espn-fantasy-football-101 "Fantasy Football 101") and general sports media experience. 
+<br>[IBM Watson](https://www.ibm.com/watson "IBM Watson") and [ESPN](https://www.espn.com/ "ESPN")'s use of [natural language processing](https://www.ibm.com/topics/natural-language-processing/ "What is natural language processing?") is a fascinating case study that showcases the power of artificial intelligence in the world of sports. This project has garnered the attention of both sports fans and tech enthusiasts alike. By harnessing IBM Watson's advanced NLP capabilities, ESPN has acquired the tools necessary to reshape the landscape of sports journalism and analytics through faster reporting times and improved accuracy, and has applied these practices to enhance the [fantasy football](https://www.espn.com/fantasy/football/story/_/id/19522393/fantasy-football-how-play-fantasy-football-espn-fantasy-football-101 "Fantasy Football 101") and general sports media experience. <br><br>
+
+[Return to Top](#table-of-contents)
 <br>
 <br>
 <hr>
 <br>
 <h1 align="center">
-	<img src="https://github.com/marko-londo/IBM-ESPN-Case-Study/blob/main/Images/1%20-%20a%20supercomputer%20analyzing%20data%20on%20a%20football%20f.png" alt="Overview and Evolution of NLP">
+	<img src="https://github.com/marko-londo/IBM-ESPN-Case-Study/blob/main/Images/nlp.jpg?raw=true" alt="Overview and Evolution of NLP">
 
 ## Overview and Evolution of NLP
 <br>This section offers a brief description of NLP, how it operates, and it's history.<br><br>
@@ -64,7 +67,7 @@
 
      1. In order for a machine to analyze data in the form of text, it is first [preprocessed, or "cleaned"](https://exchange.scale.com/public/blogs/preprocessing-techniques-in-nlp-a-guide "NLP Preprocessing Techniques"). This generally means simplifying it by removing punctuation, common words, or reducing words to their root form.
      1. The computer then analyzes the sentence structure and grammar. This is called syntactic analysis, or "parsing". Parsing aims to identify how words relate to eachother, such as subject-verb-object relationships. You can see how this works yourself by trying [Displacy](https://demos.explosion.ai/displacy "Displacy"). <p align="center">
-  <img src="https://github.com/marko-londo/IBM-ESPN-Case-Study/blob/main/Images/Screenshot%20(1).png" width=110%/></p>
+  <img src="https://github.com/marko-londo/IBM-ESPN-Case-Study/blob/main/Images/Screenshot%20(1).png?raw=true" width=110%/></p>
    1. Next is [semantic analysis](https://www.geeksforgeeks.org/understanding-semantic-analysis-nlp/ "Understanding Semantic Analysis "). In this step the machine determines the sentiment and roles of the words, in order to extract meaning and understanding from the text. 
     1. [Pragmatic processing](https://www.scaler.com/topics/pragmatics-in-nlp/ "Pragmatics") is applied to extract the context. Pragmatics focuses on the perceived tone, speaker intent and cultural conventions to fully understand the meaning of a piece of text.
     1. [Machine Learning and Deep Learning](https://www.coursera.org/articles/ai-vs-deep-learning-vs-machine-learning-beginners-guide "Deep Learning vs. Machine Learning") techniques are an essential part of NLP's functionality. Traditional machine learning algorithms and neural networks are used to train models for NLP tasks. These models learn patterns and relationsips in annotated data and us them to make predictions and perform language-related tasks.
@@ -80,7 +83,9 @@
 
     From that point onward it has continued to evolve into the powerful tool we have today. Here are some of the major landmarks in it's history:
     - 1950's: First attempts were made using rule based systems (relying on predefined linguistic rules and patterns).
+
     - 1954: The Georgetown - IBM Experiment was one of the earliest instances of machine based translation. [Researchers utilized an IBM 701 to translate a set of 60 Russian sentences into English.](https://github.com/marko-londo/IBM-ESPN-Case-Study/blob/main/Images/georgetown.png "A flowchart of part of the IBM'S dictionary lookup procedures.")
+  
     - 1960's: Programs such as "Eliza" were created, able to respond to human imputs in a way that seem natural and human.
     - 1969: First NLP conference was held at MIT
     - 1970's: Programmers began building conceptual ontologies (machine-usable data), emphasising on syntactic and semantic analysis.
@@ -94,15 +99,19 @@
     - 2018: Google introduced BERT (Bidirectional Encoder Representations from Transformers), an AI language model that made significant advancements in various natural language processing tasks (sentiment analysis, text classification, question-answering, and named entity recognition).
     - 2019: OpenAI released : GPT-2, which showcased significant advancements in generating highly coherent and realistic text, as if written by a human.
     - 2020: GPT-3, the third iteration of the GPT series, was released, and introduced enhanced capabilities with a larger capacity and remarkably realistic outputs. It excells in generating text, answering questions, and executing various language-based tasks, often blurring the distinction between human-written and machine-generated text.
+     
+  <br>
   <p align="center">
-  <img src="https://github.com/marko-londo/IBM-ESPN-Case-Study/blob/main/Images/Screenshot%20(4).png"/>
-</p>
+  <img src="https://github.com/marko-londo/IBM-ESPN-Case-Study/blob/main/Images/Screenshot%20(4).png?raw=true"/>
+</p> <br><br>
+
+[Return to Top](#table-of-contents)
 <br>
 <br>
 <hr>
 <br>
 <h1 align="center">
-	<img src="https://github.com/marko-londo/IBM-ESPN-Case-Study/blob/main/Images/1%20-%20a%20supercomputer%20analyzing%20data%20on%20a%20football%20f.png" alt="Overview and Origin">
+	<img src="https://github.com/marko-londo/IBM-ESPN-Case-Study/blob/main/Images/transforming-sports.png?raw=true" alt="IBM Watson and ESPN: Transforming Sports Analytics">
 
 ## IBM Watson and ESPN: Transforming Sports Analytics
 <br>This section provides an overview of the partnership between IBM Watson and ESPN, focusing on the use of NLP in the context of sports coverage and fantasy football.<br><br>
@@ -117,13 +126,15 @@
 
 - ### Redefining Sports Coverage
 
-    The concept for the project came about as a result of ESPN's desire to improve their sports coverage, as traditional methods were often slow and unreliable. The goal was to provide fans with streamlined, up-to-date player stats and information with accuracy. NLP was identified as a potential solution to this problem, and together with IBM they began working to develop a system that could analyze and report on sports in real-time.
+    The concept for the project came about as a result of ESPN's desire to improve their sports coverage, as traditional methods were often slow and unreliable. The goal was to provide fans with streamlined, up-to-date player stats and information with accuracy. NLP was identified as a potential solution to this problem, and together with IBM they began working to develop a system that could analyze and report on sports in real-time. <br><br>
+
+[Return to Top](#table-of-contents)
 <br>
 <br>
 <hr>
 <br>
 <h1 align="center">
-	<img src="https://github.com/marko-londo/IBM-ESPN-Case-Study/blob/main/Images/ai-nfl1.png" alt="Activities Driving Business Success">
+	<img src="https://github.com/marko-londo/IBM-ESPN-Case-Study/blob/main/Images/business-success.png?raw=true" alt="Activities Driving Business Success">
 
 ## Activities Driving Business Success
 <br>This section provides insight on the companies' target market, the factors that set them above the competition, and how they are implementing the technologies to power their product. <br><br>
@@ -136,7 +147,7 @@
 
     IBM Watson and ESPN distinguish themselves from competitors through their unparalleled ability to process vast amounts of real-time data and generate actionable insights. This capability allows them to deliver more timely and accurate information to fans compared to other sports media outlets and fantasy football providers. As of 2021, they introduced a groundbreaking feature to their fantasy app: the Watson-powered trade analyzer. Leveraging AI technology, this innovative tool analyzes extensive football data, helping fantasy league managers evaluate the fairness of trade proposals by assigning values to players and identifying weaknesses in the counterparty's team. By empowering managers to make informed trading decisions, this feature showcases the practical benefits of AI in fantasy sports.
     <p align="center">
-  <img src="https://github.com/marko-londo/IBM-ESPN-Case-Study/blob/main/Images/Trade_Assistant_combined.jpg"/>
+  <img src="https://github.com/marko-londo/IBM-ESPN-Case-Study/blob/main/Images/Trade_Assistant_combined.jpg?raw=true"/>
 </p>
     <br>
 
@@ -166,12 +177,15 @@
     - Text Summarization: Watson incorporates text summarization techniques to generate concise summaries of longer texts, allowing for easier understanding and extraction of key information.
 
         
-    Watson continuously analyzes millions of player injury reports, opinion pieces and news stories to collect and correlate data on all players and teams in the league.<br>
+    Watson continuously analyzes millions of player injury reports, opinion pieces and news stories to collect and correlate data on all players and teams in the league. <br><br>
+
+[Return to Top](#table-of-contents)
+<br>
 <br>
 <hr>
 <br>
 <h1 align="center">
-	<img src="https://github.com/marko-londo/IBM-ESPN-Case-Study/blob/main/Images/2%20-%20computer%20analyzing%20big%20data%20(2).png" alt="Evaluating the Market Landscape">
+	<img src="https://github.com/marko-londo/IBM-ESPN-Case-Study/blob/main/Images/market-landscape.png?raw=true" alt="Evaluating the Market Landscape">
 
 ## Evaluating the Market Landscape
 <br>In this section we will discuss the broader use of NLP across the sports spectrum; major trends in the market and other major companies with similar ongoing projects and products. <br><br>
@@ -205,7 +219,9 @@
     - [Hookit](https://hookit.com/ "Hookit's website") Hookit tracks athletes sponsorhips and social media mentions to determine sponsorship values and analyze marketing data.
     <br><br>
 
-    Overall, the field of sports analytics is rapidly evolving, with new companies and technologies emerging every year.
+    Overall, the field of sports analytics is rapidly evolving, with new companies and technologies emerging every year. <br><br>
+
+[Return to Top](#table-of-contents)
 <br>
 <br>
 <hr>
@@ -218,20 +234,48 @@
 To enhance the user experience and provide valuable support for fantasy football enthusiasts, I propose the integration of an interactive chatbot within the existing fantasy football app. This chatbot will serve as a virtual assistant, providing real-time guidance, strategy suggestions, and information to help users make informed decisions and stay up-to-date with the latest developments in the game.<br><br>
 
 - ### BlitzBot
-    .<br><br>
+    Introducing Blitzbot, an interactive fantasy football chatbot powered by IBM Watson designed to offer an interactive and personalized experience, keeping users engaged within the app for longer durations. Users can have dynamic conversations, seek advice, and gain insights to improve their fantasy football performance, including:
 
-- ### The Benefits of BlitzBot
-    .<br><br>
+    - **Strategy Discussion**: Blitzbot is available to discuss all aspects of fantasy football and its nuances in real-time, including strategies for line-up optimization. Two players may be projected to score a similar ammount of points for the week. However, these projections often overlook important human factors that can influence player performance. Perhaps a player is returning to face off against his former team after a non-amicable release or trade, and has a strong sense of motivation and emotional drive. Blitzbot takes these factors into account when giving advice on starters.
 
-- ### Implementing BlitzBot
-    .
+    - **Waiver Wire Suggestions**: Blitzbot continuously monitors player performance and identifies emerging opportunities that may enhance managers' roster strength. It can interpret user queries related to waiver wire pickups accurately. It understands the importance of finding hidden gems, unclaimed players who have the potential to make a significant impact on fantasy teams. When users seek suggestions for waiver wire pickups, the chatbot applies sophisticated algorithms to evaluate various factors, such as recent player performance, upcoming matchups, team dynamics, and positional needs. By considering these factors, the chatbot identifies players who may be undervalued or overlooked by other fantasy team managers. Blitzbot's personalized approach takes into account users' specific roster compositions and preferences. It tailors its suggestions based on users' team needs, positional requirements, and overall strategy. Whether users are looking for temporary replacements due to injuries or seeking long-term prospects with high upside, the chatbot aims to provide relevant and tailored recommendations.
+
+    - **Weather Tracking**: Blitzbot can inform managers of inclement weather ahead of games that might negatively affect the performance of a certain player type. For instance, imagine you have Quarterback X starting in a city where winds are expected to exceed 30 miles per hour. Although Quarterback X may have superior statistics, it's unlikely they will have many passing opportunities in this game due to the strong winds. In this scenario, Blitzbot triggers a suggestion for a lineup change, recommending Quarterback Y, who is currently on your bench.
+    - **Player Controvery Research**: Blitzbot can promptly gather and present information on any controversies or news surrounding players. Users can quickly access details about injuries, suspensions, off-field incidents, social media posts, or any other relevant news, enabling them to adjust their team strategies accordingly.
+     
+    - **Continuous Learning and Improvement**: The chatbot can be designed to learn from user interactions, continuously improving its responses and suggestions. User feedback can be collected to enhance the chatbot's accuracy, relevance, and overall performance over time.
+  
+  <br>
+  In summary, with its powerful NLP capabilities, comprehensive knowledge base, and personalized approach, Blitzbot empowers users to make informed decisions and seize advantageous opportunities.
+
+  <br>
+  <br>  
+
+  <p align="center">
+  <img src="https://github.com/marko-londo/IBM-ESPN-Case-Study/blob/main/Images/blitzbot.jpg?raw=true" height=250/>
+
+</p>
+<br>
+
+- ### Developing BlitzBot
+    BLitzbot is powered by IBM Watson, enabling it to understand and interpret user queries, engage in conversations, and provide relevant responses. By implementing machine learning and AI techniques, Blitzbot is able to continously improve its responses and suggestions over time, helping it adapt and evolve based on user needs and preferences. It can also utilize complex algorithms to derive player analytics for enhanced waiver wire or line-up suggestions. 
+    
+    Blitzbot can integrate with data APIs to access real-time data on players, teams, injuries, weather conditions, and any other relevant information, ensuring it has access to the latest information. 
+    
+    Hosting Blitzbot on a cloud infrastructure, such as [Amazon Web Services](https://aws.amazon.com/ "AWS") or [Microsoft Azure](https://azure.microsoft.com/en-us "Azure") is a crucial part of its implementation, ensuring it can handle high volumes of user interactions and facilitating data storage. <br><br>
+
+[Return to Top](#table-of-contents)
 <br>
 <br>
 <hr>
 <br>
 <h1 align="center">
-	<img src="https://github.com/marko-londo/IBM-ESPN-Case-Study/blob/main/Images/catch.png" alt="Conclusion">
+	<img src="https://github.com/marko-londo/IBM-ESPN-Case-Study/blob/main/Images/conclusion.png?raw=true" alt="Conclusion">
 
 ## Conclusion
-<br>
-.
+While ESPN and IBM Watson have made significant strides in sports analytics, it's worth noting that NLP is being increasingly utilized across the sports spectrum. From sentiment analysis to injury prediction, NLP has found applications in various areas of sports, assisting teams, coaches, and organizations to make data-driven decisions.
+
+Overall, the partnership between IBM Watson and ESPN has shown the immense potential of NLP in transforming sports analytics and enhancing the sports media experience. As NLP continues to evolve and advance, we can expect further innovations that will shape the future of sports coverage and fan engagement.
+ <br><br>
+
+[Return to Top](#table-of-contents)
