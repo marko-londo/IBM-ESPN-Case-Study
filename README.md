@@ -169,7 +169,7 @@
 
     - **Natural Language Generation (NLG)**: Watson leverages NLG techniques to generate human-like text and responses based on the input and context it receives.
 
-    - **Entity Recognition and Extraction and Named Entity Recognition (NER)**: IBM Watson employs entity recognition and extraction capabilities to identify and extract  names, locations and organizations from text, allowing for better analysis and understanding, then employs NER to classify them.
+    - **Entity Recognition and Extraction**: IBM Watson employs entity recognition and extraction capabilities to identify and extract  names, locations and organizations from text, allowing for better analysis and understanding.
 
     - **Knowledge Graphs**: IBM Watson employs knowledge graphs, which are structured representations of information and relationships, to enhance its understanding and contextual interpretation of text.
 
