@@ -85,7 +85,7 @@
     From that point onward it has continued to evolve into the powerful tool we have today. Here are some of the major landmarks in it's history:
     - **1950's**: First attempts were made using rule based systems (relying on predefined linguistic rules and patterns).
 
-    - **1954**: The Georgetown - IBM Experiment was one of the earliest instances of machine based translation. [Researchers utilized an IBM 701 to translate a set of 60 Russian sentences into English.](https://github.com/marko-londo/IBM-ESPN-Case-Study/blob/main/Images/georgetown.png "A flowchart of part of the IBM'S dictionary lookup procedures.")
+    - **1954**: [The Georgetown - IBM Experiment](https://www.ibm.com/ibm/history/exhibits/701/701_translator.html "IBM Press release on The Georgetown - IBM Experiment, January 8, 1954") was one of the earliest instances of machine based translation. Researchers utilized an IBM 701 to translate a set of 60 Russian sentences into English, using flowcharts such as [this](https://github.com/marko-londo/IBM-ESPN-Case-Study/blob/main/Images/georgetown.png "A flowchart of part of IBM'S dictionary lookup procedures.").
   
     - **1960's**: Programs such as "Eliza" were created, able to respond to human imputs in a way that seem natural and human.
     - **1969**: First NLP conference was held at MIT
