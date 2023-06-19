@@ -236,7 +236,7 @@
     Apart from ESPN, there area several other companies that have made significant contributions to the field of NLP sports analytics. However, it should be noted that these companies mainly serve clients rather than consumers:
     - [Sportlogiq](https://www.sportlogiq.com/ "Sportlogiq's website") - The global leader in hockey analytics, which uses computer vision and machine learning to analyze player and team performance in real time.
     - [Second Spectrum](https://www.secondspectrum.com/ "Second Spectrum's website") - Official Tracking Provider for the NBA, Premier League, and MLS, using advanced NLP algorithms to generate insights on basketball games, including shot charts, player tracking and defensive analysis.
-    - [Hudl](https://www.hudl.com/ "Hudl's website") - Video analysis for coaches and players. Over than 200K teams across 40 sports use Hudl to capture, analyze and learn from video and data.
+    - [Hudl](https://www.hudl.com/ "Hudl's website") - Video analysis for coaches and players. Over 200K teams across 40 sports use Hudl to capture, analyze and learn from video and data.
     - [Hookit](https://hookit.com/ "Hookit's website") Hookit tracks athletes sponsorhips and social media mentions to determine sponsorship values and analyze marketing data.
     <br><br>
 
