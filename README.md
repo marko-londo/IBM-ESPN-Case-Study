@@ -16,7 +16,7 @@
 - [Introduction](#introduction)
 - [Overview and Evolution of NLP](#overview-and-evolution-of-nlp)
   - [What is NLP?](#what-is-nlp)
-  - [History of NLP](#a-brief-history-of-nlp) 
+  - [History of NLP](#history-of-nlp) 
 - [IBM Watson and ESPN: Transforming Sports Analytics](#ibm-watson-and-espn-transforming-sports-analytics)
   - [What is IBM Watson?](#what-is-ibm-watson)
   - [Project Incorporation](#project-incorporation) 
