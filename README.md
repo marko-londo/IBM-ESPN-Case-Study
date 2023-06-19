@@ -87,7 +87,7 @@
 
     - **1954**: [The Georgetown - IBM Experiment](https://www.ibm.com/ibm/history/exhibits/701/701_translator.html "IBM Press release on The Georgetown - IBM Experiment, January 8, 1954") was one of the earliest instances of machine based translation. Researchers utilized an IBM 701 to translate a set of 60 Russian sentences into English, using flowcharts such as [this](https://github.com/marko-londo/IBM-ESPN-Case-Study/blob/main/Images/georgetown.png "A flowchart of part of IBM'S dictionary lookup procedures.").
   
-    - **1960's**: Programs such as "Eliza" were created, able to respond to human imputs in a way that seem natural and human.
+    - **1960's**: Programs such as ["Eliza"](https://www.historyofinformation.com/detail.php?id=4137 "Joseph Weizenbaum Writes ELIZA: A Pioneering Experiment in Artificial Intelligence Programming") were created, able to respond to human imputs in a way that seem natural and human.
     - **1969**: First NLP conference was held at MIT
     - **1970's**: Programmers began building conceptual ontologies (machine-usable data), emphasising on syntactic and semantic analysis.
     - **1980's**: Statistical models came into play, using large ammounts of data to understand and generate natural language.
@@ -95,8 +95,8 @@
     - **1997**: [IBM's Deep Blue defeated World chess champion Gary Kasparov](https://youtu.be/KF6sLCeBj0s "Deep Blue vs Kasparov: How a computer beat best chess player in the world - BBC News")
     - **2000's**: More advanced systems were implemented, such as machine translation, speech recognition, and text-to-speech systems.
     - **2010's**: With large ammounts of data readily available, rapid advancement in deep learning techniques were produced, such as [Recurring Neural Networks (RNNs)](https://www.ibm.com/topics/recurrent-neural-networks# "What are RNNs?") and [Transformer Models](https://blogs.nvidia.com/blog/2022/03/25/what-is-a-transformer-model/ "What are Transformer Models?")
-    - **2015**: Google Translate incorporated neural machine translation to enhance the precision and quality of its translations.
-    - **2016**: OpenAI released GPT-1, their language model, which was one of the first large-scale models trained using unsupervised learning, enabling it to generate text that closely resembled human language.
+    - **2015**: Google Translate incorporated [neural machine translation](https://research.google/pubs/pub45610/ "Google's Neural Machine Translation System: Bridging the Gap between Human and Machine Translation") to enhance the precision and quality of its translations.
+    - **2016**: OpenAI released [GPT-1](https://www.makeuseof.com/gpt-models-explained-and-compared/?newsletter_popup=1 "GPT-1 to GPT-4: Each of OpenAI's GPT Models Explained and Compared"), their language model, which was one of the first large-scale models trained using unsupervised learning, enabling it to generate text that closely resembled human language.
     - **2018**: Google introduced BERT (Bidirectional Encoder Representations from Transformers), an AI language model that made significant advancements in various natural language processing tasks (sentiment analysis, text classification, question-answering, and named entity recognition).
     - **2019**: OpenAI released : GPT-2, which showcased significant advancements in generating highly coherent and realistic text, as if written by a human.
     - **2020**: GPT-3, the third iteration of the GPT series, was released, and introduced enhanced capabilities with a larger capacity and remarkably realistic outputs. It excells in generating text, answering questions, and executing various language-based tasks, often blurring the distinction between human-written and machine-generated text.
