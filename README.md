@@ -250,7 +250,7 @@
 <hr>
 <br>
 <h1 align="center">
-	<img src="https://github.com/marko-londo/IBM-ESPN-Case-Study/blob/main/Images/computer.png?raw=true" alt="Suggestions for Business Improvement">
+	<https://github.com/marko-londo/IBM-ESPN-Case-Study/blob/main/Images/suggestions.png?raw=true" alt="Suggestions for Business Improvement">
 
 ## Suggestions for Business Improvement
 <br>
