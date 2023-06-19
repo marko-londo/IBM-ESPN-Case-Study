@@ -190,6 +190,13 @@
 
   2022 was yet another succesful year for ESPN, let's take a closer look at some key metrics that showcase their dominance in the sports media landscape:
   - 2022 marked the 31st consecutive year that ESPN has held the No. 1 spot for Men 18-34 and 18-49 specifically, and 13 straight years No. 1 among people 18-34 and 18-49.
+  - For the ninth straight year, ESPN was be the No. 1 cable network in prime time among all key adult demos (P18-34, P18-49, P25-54).
+  - ESPN was up +8% among P2+ and +5% among P18-49 (through 12/18/2022)
+  - ESPN was also up +14% and +12%, respectively in prime time (through 12/18/2022)
+  - ESPN accounted for the largest share of total sports minutes consumed of any nationally measured network (broadcast or cable) year-to-date (thru 12/13/22) among total viewers (20%) and Adults 18-49 (22.5%).
+  - ESPN2 has been the No. 2 cable sports network among M18-34 every year (once tied) since its 1993 launch behind only ESPN.
+  - ESPN+’s total paid subscribers grew to 24.3 million – up 42% during the year.
+  - The direct-to-consumer platform delivered more than 27,500 live events (up from 22,000 in 2021).
   
 
 [Return to Top](#table-of-contents)
