@@ -283,7 +283,7 @@ To enhance the user experience and provide valuable support for fantasy football
 - ### Developing BlitzBot
     BLitzbot is powered by IBM Watson, enabling it to understand and interpret user queries, engage in conversations, and provide relevant responses. By implementing machine learning and AI techniques, Blitzbot is able to continously improve its responses and suggestions over time, helping it adapt and evolve based on user needs and preferences. It can also utilize complex algorithms to derive player analytics for enhanced waiver wire or line-up suggestions. 
     
-    Blitzbot can integrate with data APIs to access real-time data on players, teams, injuries, weather conditions, and any other relevant information, ensuring it has access to the latest information. 
+    Blitzbot can integrate with Watson to access real-time data on players, teams, injuries, weather conditions, and any other relevant information, ensuring it has access to the latest information. 
     
     Hosting Blitzbot on a cloud infrastructure, such as [Amazon Web Services](https://aws.amazon.com/ "AWS") or [Microsoft Azure](https://azure.microsoft.com/en-us "Azure") is a crucial part of its implementation, ensuring it can handle high volumes of user interactions and facilitating data storage.
     
