@@ -55,7 +55,7 @@
 	<img src="https://github.com/marko-londo/IBM-ESPN-Case-Study/blob/main/Images/nlp.jpg?raw=true" alt="Overview and Evolution of NLP">
 
 ## Overview and Evolution of NLP
-<br>This section offers a brief description of NLP, how it operates, and it's history.<br><br>
+<br>This section offers a brief description of NLP, how it operates, and its history.<br><br>
 
 - ### What is NLP?
 
@@ -79,10 +79,10 @@
     NLP is a field that continues to grow and evolve by the day. Researchers and developers continuosly work to improve the accuracy and capabilities of their systems.<br><br>
 
 - ### History of NLP
-    Although NLP has experienced significant recent growth and increased mainstream media coverage, it is important to note that it is not a new technology, with it's birth dating back to the late 1940's - early 1950's. The concept of computers being capable of thought was first introduced in the paper "Computing Machinery and Intelligence" [written by Alan Turing](https://www.dataversity.net/a-brief-history-of-natural-language-processing-nlp/ "A Brief History of Natural Language Processing (NLP)"):
+    Although NLP has experienced significant recent growth and increased mainstream media coverage, it is important to note that it is not a new technology, with its birth dating back to the late 1940's - early 1950's. The concept of computers being capable of thought was first introduced in the paper "Computing Machinery and Intelligence" [written by Alan Turing](https://www.dataversity.net/a-brief-history-of-natural-language-processing-nlp/ "A Brief History of Natural Language Processing (NLP)"):
     >In 1950, Alan Turing wrote a paper describing a test for a “thinking” machine. He stated that if a machine could be part of a conversation through the use of a teleprinter, and it imitated a human so completely there were no noticeable differences, then the machine could be considered capable of thinking. Shortly after this, in 1952, the Hodgkin-Huxley model showed how the brain uses neurons in forming an electrical network. These events helped inspire the idea of Artificial Intelligence (AI), Natural Language Processing (NLP), and the evolution of computers.
 
-    From that point onward it has continued to evolve into the powerful tool we have today. Here are some of the major landmarks in it's history:
+    From that point onward it has continued to evolve into the powerful tool we have today. Here are some of the major landmarks in its history:
     - **1950's**: First attempts were made using rule based systems (relying on predefined linguistic rules and patterns).
 
     - **1954**: [The Georgetown - IBM Experiment](https://www.ibm.com/ibm/history/exhibits/701/701_translator.html "IBM Press release on The Georgetown - IBM Experiment, January 8, 1954") was one of the earliest instances of machine based translation. Researchers utilized an IBM 701 to translate a set of 60 Russian sentences into English, using flowcharts such as [this](https://github.com/marko-londo/IBM-ESPN-Case-Study/blob/main/Images/georgetown.png "A flowchart of part of IBM'S dictionary lookup procedures.").
@@ -123,7 +123,7 @@
 
 - ### Project Incorporation
 
-    The IBM Watson - ESPN project began in 2016. The idea was to leverage Watson's NLP processing capabilities to enhance the fantasy football experience for fans. Since it's incorporation, the project has grown significantly, with a team of several data scientists, software engineers, and product managers, all dedicated to improving the technology behind the project.<br><br>
+    The IBM Watson - ESPN project began in 2016. The idea was to leverage Watson's NLP processing capabilities to enhance the fantasy football experience for fans. Since its incorporation, the project has grown significantly, with a team of several data scientists, software engineers, and product managers, all dedicated to improving the technology behind the project.<br><br>
 
 - ### Redefining Sports Coverage
 
