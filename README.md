@@ -35,7 +35,7 @@
   - [Developing Blitzbot](#developing-blitzbot)
 - [Conclusion](#conclusion)
   
-<br>
+<br> 
 <hr>
 <br>
 <h1 align="center">
